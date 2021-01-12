@@ -7,20 +7,20 @@ permalink: /
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/newpic.jpg" class="img-responsive" width="23%" style="float: left; padding: 15px;" />
  <br>
- Sr. Principal Researcher, Microsoft Research<br>
+ Sr. Staff Research Scientist, Google AI<br>
  Adjunct Faculty, IIT Kanpur<br>
  Contact:
- Microsoft Research Lab, "Vigyan"<br>
- #9, Lavelle Road<br>
- Bangalore 560 001 India<br>
- Email: prajain@microsoft.com<br>
+ Google AI Research Lab, No. 3<br>
+ RMZ Infinity Tower E, Old Madras Road<br>
+ Bangalore 560 016 India<br>
+ Email: prajain@google.com<br>
 
 <br>
 <br>
 <p>
-I am a member of the Machine Learning and Optimization and the Algorithms and Data Sciences Group at Microsoft Research, Bangalore, India. My research interests are in machine learning, non-convex optimization, high-dimensional statistics, and optimization algorithms in general. I am also interested in applications of machine learning to privacy, computer vision, text mining and natural language processing. 
+I lead the Machine Learning Foundations and Optimization team at Google AI, Bangalore, India. My research interests are in machine learning, non-convex optimization, high-dimensional statistics, and optimization algorithms in general. I am also interested in applications of machine learning to privacy, computer vision, text mining and natural language processing. 
 <br>
-Earlier, I completed my PhD at the University of Texas at Austin under Prof. Inderjit S. Dhillon. 
+Earlier, I was a Sr. Principal Research Scientist at Microsoft Research India. I completed my PhD at the University of Texas at Austin under Prof. Inderjit S. Dhillon. 
 
 </p>
 
