@@ -1,6 +1,6 @@
 ---
 title: "Allan Lab - Vacancies"
-layout: textlay
+layout: default_basic
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies

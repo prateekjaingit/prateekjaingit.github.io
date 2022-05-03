@@ -1,14 +1,14 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Prateek Jain -- Microsoft Research India."
+excerpt: "Prateek Jain"
 sitemap: false
-permalink: /allnews.html
+permalink: /news.html
 ---
 
 # News
 
-{% for article in site.data.news %}
+{% for article in site.data.news_mlo %}
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>
 {% endfor %}
