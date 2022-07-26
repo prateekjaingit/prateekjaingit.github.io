@@ -5,7 +5,7 @@ excerpt: "Prateek Jain -- Students"
 sitemap: false
 permalink: /students/
 ---
-I have been extremely lucky to have worked with some amazing postdocs/interns/research fellows. 
+I have been extremely lucky to have worked with some amazing postdocs/interns/predocs/research fellows. 
 
 ## Postdocs
 * Soumyabrata Pal, 2022-
@@ -54,7 +54,7 @@ I have been extremely lucky to have worked with some amazing postdocs/interns/re
 * Kartik Gupta, 2015-2017. 
   (PhD Student, CMU)
 * Kush Bhatia, 2014-2016.
-  (PhD Student, UC Berkeley)
+  (Postdoc, Stanford University)
 
 
 

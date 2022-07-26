@@ -31,6 +31,7 @@ permalink: /service/
 
 - Action Editor: Journal of Machine Learning Research (*JMLR*)
 - Associate Editor: Siam Journal on Mathematics of Data Science (*SIMODS*)
+- Guest Editor: IEEE Signal Processing Magazine (37), 2020
 - IEEE Transactions on Pattern Analysis & Machine Intelligence (*PAMI*)
 - IEEE Transactions on Signal Processing (*ITSP*)
 - IEEE Transactions on Information Theory (*ITIT*)
