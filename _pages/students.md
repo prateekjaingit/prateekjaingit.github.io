@@ -42,21 +42,22 @@ I have been extremely lucky to have worked with some amazing postdocs/interns/pr
   (PhD Student, University of Washington)
 * <a href="https://abhimohta.github.io/">Abhishek Mohta</a>, 2017-2018
   (ML Engg, Uber)
-* Chirag Gupta, 2016-2018
-  (PhD Student, CMU)
-* Sai Srivatsa, 2016-2017
-* Yeshwanth Cherapanamjeri, 2015-2017.
+* <a href="https://aigen.github.io/">Chirag Gupta, 2016-2018
+  (Sr Researcher, Bloomberg AI)
+* <a href="https://saisrivatsa.com/">Sai Srivatsa, 2016-2017 (PhD Student, Harvard University)
+* <a href="https://yeshwanth94.github.io/">Yeshwanth Cherapanamjeri</a>, 2015-2017.
   (PhD Student, UC Berkeley)
-* Kartik Gupta, 2015-2017. 
+* <a href="https://dblp.org/pid/133/8298.html">Kartik Gupta</a>, 2015-2017. 
   (PhD Student, CMU)
-* Kush Bhatia, 2014-2016.
+* <a href="https://scholar.google.com/citations?user=X-Sd3-8AAAAJ&hl=en">Kush Bhatia</a>, 2014-2016.
   (Postdoc, Stanford University)
 
 
 
 ## Interns
+* Hardik Shah, Fall'2022 (MS Student, ETH Zurich)
 * Anshul Mittal, Summer'2022. (PhD Student, IIT Delhi)
-* Devvrit Khatri, Summer'2021. (PhD Student, UT Austin)
+* Devvrit Khatri, Summer'2021, 2023. (PhD Student, UT Austin)
 * Carrie Wu, Summer'2019. (PhD Student, Stanford)
 * Dheeraj Nagaraj, Summer'2018. (Research Scientist, Google Research India)
 * Chi Jin, Summer'2017. (Assistant Professor, Princeton University)
