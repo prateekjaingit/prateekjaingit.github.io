@@ -24,5 +24,6 @@ Earlier, I was a Sr. Principal Research Scientist at Microsoft Research India. I
 
 </p>
 
+<a href="/bio.html">Brief Bio for Talks</a>
 
 <br><br><br>
