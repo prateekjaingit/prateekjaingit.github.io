@@ -1,0 +1,421 @@
+
+@article{LeeDRCCCHBKDLDASGKJJCN24,
+title = {Gecko: Versatile text embeddings distilled from large language models},
+author = {Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, Jeremy R Cole, Kai Hui, Michael Boratko, Rajvi Kapadia, Wen Ding, Yi Luan, Sai Meher Karthik Duddu, Gustavo Hernandez Abrego, Weiqiang Shi, Nithi Gupta, Aditya Kusupati, Prateek Jain, Siddhartha Reddy Jonnalagadda, Ming-Wei Chang, Iftekhar Naim},
+abstract = {We present Gecko, a compact and versatile text embedding model. Gecko achieves strong retrieval performance by leveraging a key idea: distilling knowledge from large language models (LLMs) into a retriever. Our two-step distillation process begins with generating diverse, synthetic paired data using an LLM. Next, we further refine the data quality by retrieving a set of candidate passages for each query, and relabeling the positive and hard negative passages using the same LLM. The effectiveness of our approach is demonstrated by the compactness of the Gecko. On the Massive Text Embedding Benchmark (MTEB), Gecko with 256 embedding dimensions outperforms all existing entries with 768 embedding size. Gecko with 768 embedding dimensions achieves an average score of 66.31, competing with 7x larger models and 5x higher dimensional embeddings.},
+journal = {arXiv preprint arXiv:2403.20327},
+year = {2024},
+pages = {},
+month = mar,
+url = {all_papers/LeeDRCCCHBKDLDASGKJJCN24.pdf}
+}
+@article{YerramYBKJN24,
+title = {HiRE: High Recall Approximate Top- Estimation for Efficient LLM Inference},
+author = {Varun Yerram, Chong You, Srinadh Bhojanapalli, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli},
+abstract = {Autoregressive decoding with generative Large Language Models (LLMs) on accelerators (GPUs/TPUs) is often memory-bound where most of the time is spent on transferring model parameters from high bandwidth memory (HBM) to cache. On the other hand, recent works show that LLMs can maintain quality with significant sparsity/redundancy in the feedforward (FFN) layers by appropriately training the model to operate on a top- fraction of rows/columns (where ), there by suggesting a way to reduce the transfer of model parameters, and hence latency. However, exploiting this sparsity for improving latency is hindered by the fact that identifying top rows/columns is data-dependent and is usually performed using full matrix operations, severely limiting potential gains. To address these issues, we introduce HiRE (High Recall Approximate Top-k Estimation). HiRE comprises of two novel components: (i) a compression scheme to cheaply predict top- rows/columns with high recall, followed by full computation restricted to the predicted subset, and (ii) DA-TOP-: an efficient multi-device approximate top- operator. We demonstrate that on a one billion parameter model, HiRE applied to both the softmax as well as feedforward layers, achieves almost matching pretraining and downstream accuracy, and speeds up inference latency by on a single TPUv5e device.},
+journal = {arXiv preprint arXiv:2402.09360},
+year = {2024},
+pages = {},
+month = feb,
+url = {all_papers/YerramYBKJN24.pdf}
+}
+@article{NairSBKJN24,
+title = {Tandem Transformers for Inference Efficient LLMs},
+author = {Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli},
+abstract = {The autoregressive nature of conventional large language models (LLMs) inherently limits inference speed, as tokens are generated sequentially. While speculative and parallel decoding techniques attempt to mitigate this, they face limitations: either relying on less accurate smaller models for generation or failing to fully leverage the base LLM's representations. We introduce a novel architecture, Tandem transformers, to address these issues. This architecture uniquely combines (1) a small autoregressive model and (2) a large model operating in block mode (processing multiple tokens simultaneously). The small model's predictive accuracy is substantially enhanced by granting it attention to the large model's richer representations. On the PaLM2 pretraining dataset, a tandem of PaLM2-Bison and PaLM2-Gecko demonstrates a 3.3% improvement in next-token prediction accuracy over a standalone PaLM2-Gecko, offering a 1.16x speedup compared to a PaLM2-Otter model with comparable downstream performance. We further incorporate the tandem model within the speculative decoding (SPEED) framework where the large model validates tokens from the small model. This ensures that the Tandem of PaLM2-Bison and PaLM2-Gecko achieves substantial speedup (around 1.14x faster than using vanilla PaLM2-Gecko in SPEED) while maintaining identical downstream task accuracy.},
+journal = {arXiv preprint arXiv:2402.08644},
+year = {2024},
+pages = {},
+month = feb,
+url = {all_papers/NairSBKJN24.pdf}
+}
+@article{BansalSDGVGBJT24,
+title = {Llm augmented llms: Expanding capabilities through composition},
+author = {Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, Sriram Ganapathy, Abhishek Bapna, Prateek Jain, Partha Talukdar},
+abstract = {Foundational models with billions of parameters which have been trained on large corpora of data have demonstrated non-trivial skills in a variety of domains. However, due to their monolithic structure, it is challenging and expensive to augment them or impart new skills. On the other hand, due to their adaptation abilities, several new instances of these models are being trained towards new domains and tasks. In this work, we study the problem of efficient and practical composition of existing foundation models with more specific models to enable newer capabilities. To this end, we propose CALM -- Composition to Augment Language Models -- which introduces cross-attention between models to compose their representations and enable new capabilities. Salient features of CALM are: (i) Scales up LLMs on new tasks by 're-using' existing LLMs along with a few additional parameters and data, (ii) Existing model weights are kept intact, and hence preserves existing capabilities, and (iii) Applies to diverse domains and settings. We illustrate that augmenting PaLM2-S with a smaller model trained on low-resource languages results in an absolute improvement of up to 13\% on tasks like translation into English and arithmetic reasoning for low-resource languages. Similarly, when PaLM2-S is augmented with a code-specific model, we see a relative improvement of 40\% over the base model for code generation and explanation tasks -- on-par with fully fine-tuned counterparts.},
+journal = {arXiv preprint arXiv:2401.02412},
+year = {2024},
+pages = {},
+month = jan,
+url = {all_papers/BansalSDGVGBJT24.pdf}
+}
+@article{GuptaKRBJD23,
+title = {Efficacy of dual-encoders for extreme multi-label classification},
+author = {Nilesh Gupta, Devvrit Khatri, Ankit S Rawat, Srinadh Bhojanapalli, Prateek Jain, Inderjit S Dhillon},
+abstract = {Dual-encoder models have demonstrated significant success in dense retrieval tasks for open-domain question answering that mostly involves zero-shot and few-shot scenarios. However, their performance in many-shot retrieval problems where training data is abundant, such as extreme multi-label classification (XMC), remains under-explored. Existing empirical evidence suggests that, for such problems, the dual-encoder method's accuracies lag behind the performance of state-of-the-art (SOTA) extreme classification methods that grow the number of learnable parameters linearly with the number of classes. As a result, some recent extreme classification techniques use a combination of dual-encoders and a learnable classification head for each class to excel on these tasks. In this paper, we investigate the potential of "pure" DE models in XMC tasks. Our findings reveal that when trained correctly standard dual-encoders can match or outperform SOTA extreme classification methods by up to 2% at Precision@1 even on the largest XMC datasets while being 20x smaller in terms of the number of trainable parameters. We further propose a differentiable topk error-based loss function, which can be used to specifically optimize for Recall@k metrics. We include our PyTorch implementation along with other resources for reproducing the results in the supplementary material.},
+journal = {arXiv preprint arXiv:2310.10636},
+year = {2023},
+pages = {},
+month = oct,
+url = {all_papers/GuptaKRBJD23.pdf}
+}
+@article{KumarMGKDJ23,
+title = {EHI: End-to-end Learning of Hierarchical Index for Efficient Dense Retrieval},
+author = {Ramnath Kumar, Anshul Mittal, Nilesh Gupta, Aditya Kusupati, Inderjit Dhillon, Prateek Jain},
+abstract = {Dense embedding-based retrieval is now the industry standard for semantic search and ranking problems, like obtaining relevant web documents for a given query. Such techniques use a two-stage process: (a) contrastive learning to train a dual encoder to embed both the query and documents and (b) approximate nearest neighbor search (ANNS) for finding similar documents for a given query. These two stages are disjoint; the learned embeddings might be ill-suited for the ANNS method and vice-versa, leading to suboptimal performance. In this work, we propose End-to-end Hierarchical Indexing -- EHI -- that jointly learns both the embeddings and the ANNS structure to optimize retrieval performance. EHI uses a standard dual encoder model for embedding queries and documents while learning an inverted file index (IVF) style tree structure for efficient ANNS. To ensure stable and efficient learning of discrete tree-based ANNS structure, EHI introduces the notion of dense path embedding that captures the position of a query/document in the tree. We demonstrate the effectiveness of EHI on several benchmarks, including de-facto industry standard MS MARCO (Dev set and TREC DL19) datasets. For example, with the same compute budget, EHI outperforms state-of-the-art (SOTA) in by 0.6% (MRR@10) on MS MARCO dev set and by 4.2% (nDCG@10) on TREC DL19 benchmarks.},
+journal = {arXiv preprint arXiv:2310.08891},
+year = {2023},
+pages = {},
+month = oct,
+url = {all_papers/KumarMGKDJ23.pdf}
+}
+@article{KuduguntaKDCDTHKFJ23,
+title = {MatFormer: Nested Transformer for Elastic Inference},
+author = {Sneha Kudugunta, Aditya Kusupati, Tim Dettmers, Kaifeng Chen, Inderjit Dhillon, Yulia Tsvetkov, Hannaneh Hajishirzi, Sham Kakade, Ali Farhadi, Prateek Jain},
+abstract = {Transformer models are deployed in a wide range of settings, from multi-accelerator clusters to standalone mobile phones. The diverse inference constraints in these scenarios necessitate practitioners to train foundation models such as PaLM 2, Llama, & ViTs as a series of models of varying sizes. Due to significant training costs, only a select few model sizes are trained and supported, limiting more fine-grained control over relevant tradeoffs, including latency, cost, and accuracy. This work introduces MatFormer, a nested Transformer architecture designed to offer elasticity in a variety of deployment constraints. Each Feed Forward Network (FFN) block of a MatFormer model is jointly optimized with a few nested smaller FFN blocks. This training procedure allows for the Mix'n'Match of model granularities across layers -- i.e., a trained universal MatFormer model enables extraction of hundreds of accurate smaller models, which were never explicitly optimized. We empirically demonstrate MatFormer's effectiveness across different model classes (decoders & encoders), modalities (language & vision), and scales (up to 2.6B parameters). We find that a 2.6B decoder-only MatFormer language model (MatLM) allows us to extract smaller models spanning from 1.5B to 2.6B, each exhibiting comparable validation loss and one-shot downstream evaluations to their independently trained counterparts. Furthermore, we observe that smaller encoders extracted from a universal MatFormer-based ViT (MatViT) encoder preserve the metric-space structure for adaptive large-scale retrieval. Finally, we showcase that speculative decoding with the accurate and …},
+journal = {arXiv preprint arXiv:2310.07707},
+year = {2023},
+pages = {},
+month = oct,
+url = {all_papers/KuduguntaKDCDTHKFJ23.pdf}
+}
+@article{NaserySSJ23,
+title = {End-to-End Neural Network Compression via Regularized Latency Surrogates},
+author = {Anshul Nasery, Hardik Shah, Arun Sai Suggala, Prateek Jain},
+abstract = {Neural network (NN) compression via techniques such as pruning, quantization requires setting compression hyperparameters (e.g., number of channels to be pruned, bitwidths for quantization) for each layer either manually or via neural architecture search (NAS) which can be computationally expensive. We address this problem by providing an end-to-end technique that optimizes for model's Floating Point Operations (FLOPs) or for on-device latency via a novel latency surrogate. Our algorithm is versatile and can be used with many popular compression methods including pruning, low-rank factorization, and quantization. Crucially, it is fast and runs in almost the same amount of time as single model training; which is a significant training speed-up over standard NAS methods. For BERT compression on GLUE fine-tuning tasks, we achieve reduction in FLOPs with only drop in performance. For compressing MobileNetV3 on ImageNet-1K, we achieve reduction in FLOPs, and reduction in on-device latency without drop in accuracy, while still requiring less training compute than SOTA compression techniques. Finally, for transfer learning on smaller datasets, our technique identifies - cheaper architectures than standard MobileNetV3, EfficientNet suite of architectures at almost the same training cost and accuracy.},
+journal = {arXiv preprint arXiv:2306.05785},
+year = {2023},
+pages = {},
+month = jun,
+url = {all_papers/NaserySSJ23.pdf}
+}
+@article{LiuJKOS23,
+title = {Near optimal private and robust linear regression},
+author = {Xiyang Liu, Prateek Jain, Weihao Kong, Sewoong Oh, Arun Sai Suggala},
+abstract = {We study the canonical statistical estimation problem of linear regression from i.i.d.~examples under -differential privacy when some response variables are adversarially corrupted. We propose a variant of the popular differentially private stochastic gradient descent (DP-SGD) algorithm with two innovations: a full-batch gradient descent to improve sample complexity and a novel adaptive clipping to guarantee robustness. When there is no adversarial corruption, this algorithm improves upon the existing state-of-the-art approach and achieves a near optimal sample complexity. Under label-corruption, this is the first efficient linear regression algorithm to guarantee both -DP and robustness. Synthetic experiments confirm the superiority of our approach.},
+journal = {arXiv preprint arXiv:2301.13273},
+year = {2023},
+pages = {},
+month = jan,
+url = {all_papers/LiuJKOS23.pdf}
+}
+@article{LiuKJO22,
+title = {DP-PCA: Statistically optimal and differentially private PCA},
+author = {Xiyang Liu, Weihao Kong, Prateek Jain, Sewoong Oh},
+abstract = {We study the canonical statistical task of computing the principal component from iid~ data under differential privacy. Although extensively studied in literature, existing solutions fall short on two key aspects:() even for Gaussian data, existing private algorithms require the number of samples to scale super-linearly with , ie, , to obtain non-trivial results while non-private PCA requires only , and () existing techniques suffer from a large error even when the variance in each data point is small. We propose DP-PCA method that uses a single-pass minibatch gradient descent style algorithm to overcome the above limitations. For sub-Gaussian data, we provide nearly optimal statistical error rates even for .},
+journal = {Advances in neural information processing systems},
+year = {2022},
+pages = {29929-29943},
+month = dec,
+url = {all_papers/LiuKJO22.pdf}
+}
+@article{NandySJCRR22,
+title = {Domain-agnostic contrastive representations for learning from label proportions},
+author = {Jay Nandy, Rishi Saket, Prateek Jain, Jatin Chauhan, Balaraman Ravindran, Aravindan Raghuveer},
+abstract = {We study the weak supervision learning problem of Learning from Label Proportions (LLP) where the goal is to learn an instance-level classifier using proportions of various class labels in a bag -- a collection of input instances that often can be highly correlated. While representation learning for weakly-supervised tasks is found to be effective, they often require domain knowledge. To the best of our knowledge, representation learning for tabular data (unstructured data containing both continuous and categorical features) are not studied. In this paper, we propose to learn diverse representations of instances within the same bags to effectively utilize the weak bag-level supervision. We propose a domain agnostic LLP method, called "Self Contrastive Representation Learning for LLP" (SelfCLR-LLP) that incorporates a novel self--contrastive function as an auxiliary loss to learn representations on tabular data for LLP …},
+journal = {},
+year = {2022},
+pages = {1542-1551},
+month = oct,
+url = {all_papers/NandySJCRR22.pdf}
+}
+@article{AddepalliNBNJ22,
+title = {Learning an invertible output mapping can mitigate simplicity bias in neural networks},
+author = {Sravanti Addepalli, Anshul Nasery, R Venkatesh Babu, Praneeth Netrapalli, Prateek Jain},
+abstract = {Deep Neural Networks are known to be brittle to even minor distribution shifts compared to the training distribution. While one line of work has demonstrated that Simplicity Bias (SB) of DNNs - bias towards learning only the simplest features - is a key reason for this brittleness, another recent line of work has surprisingly found that diverse/ complex features are indeed learned by the backbone, and their brittleness is due to the linear classification head relying primarily on the simplest features. To bridge the gap between these two lines of work, we first hypothesize and verify that while SB may not altogether preclude learning complex features, it amplifies simpler features over complex ones. Namely, simple features are replicated several times in the learned representations while complex features might not be replicated. This phenomenon, we term Feature Replication Hypothesis, coupled with the Implicit Bias of SGD to converge to maximum margin solutions in the feature space, leads the models to rely mostly on the simple features for classification. To mitigate this bias, we propose Feature Reconstruction Regularizer (FRR) to ensure that the learned features can be reconstructed back from the logits. The use of {\em FRR} in linear layer training (FRR-L) encourages the use of more diverse features for classification. We further propose to finetune the full network by freezing the weights of the linear layer trained using FRR-L, to refine the learned features, making them more suitable for classification. Using this simple solution, we demonstrate up to 15% gains in OOD accuracy on the recently introduced semi-synthetic datasets with extreme …},
+journal = {arXiv preprint arXiv:2210.01360},
+year = {2022},
+pages = {},
+month = oct,
+url = {all_papers/AddepalliNBNJ22.pdf}
+}
+@article{PalVMTASSJ22,
+title = {Private and Efficient Meta-Learning with Low Rank and Sparse decomposition},
+author = {Soumyabrata Pal, Prateek Varshney, Gagan Madan, Abhradeep Guha Thakurta, Gaurav Aggarwal, Pradeep Shenoy, Gaurav Srivastava, Prateek Jain},
+abstract = {Meta-learning is critical for a variety of practical ML systems -- like personalized recommendations systems -- that are required to generalize to new tasks despite a small number of task-specific training points. Existing meta-learning techniques use two complementary approaches of either learning a low-dimensional representation of points for all tasks, or task-specific fine-tuning of a global model trained using all the tasks. In this work, we propose a novel meta-learning framework that combines both the techniques to enable handling of a large number of data-starved tasks. Our framework models network weights as a sum of low-rank and sparse matrices. This allows us to capture information from multiple domains together in the low-rank part while still allowing task specific personalization using the sparse part. We instantiate and study the framework in the linear setting, where the problem reduces to that of estimating the sum of a rank- and a -column sparse matrix using a small number of linear measurements. We propose an alternating minimization method with hard thresholding -- AMHT-LRS -- to learn the low-rank and sparse part effectively and efficiently. For the realizable, Gaussian data setting, we show that AMHT-LRS indeed solves the problem efficiently with nearly optimal samples. We extend AMHT-LRS to ensure that it preserves privacy of each individual user in the dataset, while still ensuring strong generalization with nearly optimal number of samples. Finally, on multiple datasets, we demonstrate that the framework allows personalized models to obtain superior performance in the data-scarce regime.},
+journal = {},
+year = {2022},
+pages = {},
+month = sep,
+url = {all_papers/PalVMTASSJ22.pdf}
+}
+@article{JainP22,
+title = {Online low rank matrix completion},
+author = {Prateek Jain, Soumyabrata Pal},
+abstract = {We study the problem of {\em online} low-rank matrix completion with users, items and rounds. In each round, the algorithm recommends one item per user, for which it gets a (noisy) reward sampled from a low-rank user-item preference matrix. The goal is to design a method with sub-linear regret (in ) and nearly optimal dependence on and . The problem can be easily mapped to the standard multi-armed bandit problem where each item is an {\em independent} arm, but that leads to poor regret as the correlation between arms and users is not exploited. On the other hand, exploiting the low-rank structure of reward matrix is challenging due to non-convexity of the low-rank manifold. We first demonstrate that the low-rank structure can be exploited using a simple explore-then-commit (ETC) approach that ensures a regret of . That is, roughly only item recommendations are required per user to get a non-trivial solution. We then improve our result for the rank- setting which in itself is quite challenging and encapsulates some of the key issues. Here, we propose \textsc{OCTAL} (Online Collaborative filTering using iterAtive user cLustering) that guarantees nearly optimal regret of . OCTAL is based on a novel technique of clustering users that allows iterative elimination of items and leads to a nearly optimal minimax rate.},
+journal = {arXiv preprint arXiv:2209.03997},
+year = {2022},
+pages = {},
+month = sep,
+url = {all_papers/JainP22.pdf}
+}
+@article{NaseryANJ22,
+title = {DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization},
+author = {Anshul Nasery, Sravanti Addepalli, Praneeth Netrapalli, Prateek Jain},
+abstract = {We consider the problem of OOD generalization, where the goal is to train a model that performs well on test distributions that are different from the training distribution. Deep learning models are known to be fragile to such shifts and can suffer large accuracy drops even for slightly different test distributions. We propose a new method - DAFT - based on the intuition that adversarially robust combination of a large number of rich features should provide OOD robustness. Our method carefully distills the knowledge from a powerful teacher that learns several discriminative features using standard training while combining them using adversarial training. The standard adversarial training procedure is modified to produce teachers which can guide the student better. We evaluate DAFT on standard benchmarks in the DomainBed framework, and demonstrate that DAFT achieves significant improvements over the current state-of-the-art OOD generalization methods. DAFT consistently out-performs well-tuned ERM and distillation baselines by up to 6%, with more pronounced gains for smaller networks.},
+journal = {arXiv preprint arXiv:2208.09139},
+year = {2022},
+pages = {},
+month = aug,
+url = {all_papers/NaseryANJ22.pdf}
+}
+@article{MadaanBJJ22,
+title = {Treeformer: Dense gradient trees for efficient attention computation},
+author = {Lovish Madaan, Srinadh Bhojanapalli, Himanshu Jain, Prateek Jain},
+abstract = {Standard inference and training with transformer based architectures scale quadratically with input sequence length. This is prohibitively large for a variety of applications especially in web-page translation, query-answering etc. Consequently, several approaches have been developed recently to speedup attention computation by enforcing different attention structures such as sparsity, low-rank, approximating attention using kernels. In this work, we view attention computation as that of nearest neighbor retrieval, and use decision tree based hierarchical navigation to reduce the retrieval cost per query token from linear in sequence length to nearly logarithmic. Based on such hierarchical navigation, we design Treeformer which can use one of two efficient attention layers -- TF-Attention and TC-Attention. TF-Attention computes the attention in a fine-grained style, while TC-Attention is a coarse attention layer which also ensures that the gradients are "dense". To optimize such challenging discrete layers, we propose a two-level bootstrapped training method. Using extensive experiments on standard NLP benchmarks, especially for long-sequences, we demonstrate that our Treeformer architecture can be almost as accurate as baseline Transformer while using 30x lesser FLOPs in the attention layer. Compared to Linformer, the accuracy can be as much as 12% higher while using similar FLOPs in the attention layer.},
+journal = {arXiv preprint arXiv:2208.09015},
+year = {2022},
+pages = {},
+month = aug,
+url = {all_papers/MadaanBJJ22.pdf}
+}
+@article{VarshneyTJ22,
+title = {(Nearly) Optimal Private Linear Regression via Adaptive Clipping},
+author = {Prateek Varshney, Abhradeep Thakurta, Prateek Jain},
+abstract = {We study the problem of differentially private linear regression where each data point is sampled from a fixed sub-Gaussian style distribution. We propose and analyze a one-pass mini-batch stochastic gradient descent method (DP-AMBSSGD) where points in each iteration are sampled without replacement. Noise is added for DP but the noise standard deviation is estimated online. Compared to existing -DP techniques which have sub-optimal error bounds, DP-AMBSSGD is able to provide nearly optimal error bounds in terms of key parameters like dimensionality , number of points , and the standard deviation of the noise in observations. For example, when the -dimensional covariates are sampled i.i.d. from the normal distribution, then the excess error of DP-AMBSSGD due to privacy is , i.e., the error is meaningful when number of samples which is the standard operative regime for linear regression. In contrast, error bounds for existing efficient methods in this setting are: , even for . That is, for constant , the existing techniques require to provide a non-trivial result.},
+journal = {arXiv preprint arXiv:2207.04686},
+year = {2022},
+pages = {},
+month = jul,
+url = {all_papers/VarshneyTJ22.pdf}
+}
+@article{MajmundarGNJ22,
+title = {Met: Masked encoding for tabular data},
+author = {Kushal Majmundar, Sachin Goyal, Praneeth Netrapalli, Prateek Jain},
+abstract = {We consider the task of self-supervised representation learning (SSL) for tabular data: tabular-SSL. Typical contrastive learning based SSL methods require instance-wise data augmentations which are difficult to design for unstructured tabular data. Existing tabular-SSL methods design such augmentations in a relatively ad-hoc fashion and can fail to capture the underlying data manifold. Instead of augmentations based approaches for tabular-SSL, we propose a new reconstruction based method, called Masked Encoding for Tabular Data (MET), that does not require augmentations. MET is based on the popular MAE approach for vision-SSL [He et al., 2021] and uses two key ideas: (i) since each coordinate in a tabular dataset has a distinct meaning, we need to use separate representations for all coordinates, and (ii) using an adversarial reconstruction loss in addition to the standard one. Empirical results on five diverse tabular datasets show that MET achieves a new state of the art (SOTA) on all of these datasets and improves up to 9% over current SOTA methods. We shed more light on the working of MET via experiments on carefully designed simple datasets.},
+journal = {arXiv preprint arXiv:2206.08564},
+year = {2022},
+pages = {},
+month = jun,
+url = {all_papers/MajmundarGNJ22.pdf}
+}
+@article{SuhasSJN22,
+title = {Multivariate Time Series Forecasting},
+author = {S Suhas, Arun Suggala, Prateek Jain, Praneeth Nethrapalli},
+abstract = {Time series forecasting is an interesting problem with industrial applications in stock price predictions, retail demand forecasting and traffic prediction. In particular, forecasting high dimensional data using highly correlated time series has proven to be difficult. Traditional time series forecasting methods operate only on individual time series. These methods include AR, ARIMA and exponential smoothing [3]. However these models fail to capture even simple relationships between time series. In recent times, the M5 competition [5] shed light on the ability of Deep Learning techniques to do well in the forecasting domain. We explore the problem of “Multivariate Time Series Forecasting” between time series that have very strong explicit correlations (eg traffic data) in this draft.},
+journal = {},
+year = {2022},
+pages = {},
+month = may,
+url = {all_papers/SuhasSJN22.pdf}
+}
+@article{KusupatiBRWSRHCKJF22,
+title = {Matryoshka representations for adaptive deployment},
+author = {Aditya Kusupati, Gantavya Bhatt, Aniket Rege, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, Ali Farhadi},
+abstract = {Learned representations are a central component in modern ML systems, serving a multitude of downstream tasks. When training such representations, it is often the case that computational and statistical constraints for each downstream task are unknown. In this context, rigid fixed-capacity representations can be either over or under-accommodating to the task at hand. This leads us to ask: can we design a flexible representation that can adapt to multiple downstream tasks with varying computational resources? Our main contribution is Matryoshka Representation Learning (MRL) which encodes information at different granularities and allows a single embedding to adapt to the computational constraints of downstream tasks. MRL minimally modifies existing representation learning pipelines and imposes no additional cost during inference and deployment. MRL learns coarse-to-fine representations that are at least as accurate and rich as independently trained low-dimensional representations. The flexibility within the learned Matryoshka Representations offer:(a) up to 14× smaller embedding size for ImageNet-1K classification at the same level of accuracy;(b) up to 14× real-world speed-ups for large-scale retrieval on ImageNet-1K and 4K; and (c) up to 2% accuracy improvements for long-tail few-shot classification, all while being as robust as the original representations. Finally, we show that MRL extends seamlessly to web-scale datasets (ImageNet, JFT) across various modalities–vision (ViT, ResNet), vision+ language (ALIGN) and language (BERT). MRL code and pretrained models are open-sourced at https://github. com/RAIVNLab/MRL.},
+journal = {arXiv preprint arXiv:2205.13147},
+year = {2022},
+pages = {},
+month = may,
+url = {all_papers/KusupatiBRWSRHCKJF22.pdf}
+}
+@article{JainRSST21,
+title = {Differentially private model personalization},
+author = {Prateek Jain, John Rush, Adam Smith, Shuang Song, Abhradeep Guha Thakurta},
+abstract = {We study personalization of supervised learning with user-level differential privacy. Consider a setting with many users, each of whom has a training data set drawn from their own distribution . Assuming some shared structure among the problems , can users collectively learn the shared structure---and solve their tasks better than they could individually---while preserving the privacy of their data? We formulate this question using joint, user-level differential privacy---that is, we control what is leaked about each user's entire data set. We provide algorithms that exploit popular non-private approaches in this domain like the Almost-No-Inner-Loop (ANIL) method, and give strong user-level privacy guarantees for our general approach. When the problems are linear regression problems with each user's regression vector lying in a common, unknown low-dimensional subspace, we show that our efficient algorithms satisfy nearly optimal estimation error guarantees. We also establish a general, information-theoretic upper bound via an exponential mechanism-based algorithm.},
+journal = {Advances in neural information processing systems},
+year = {2021},
+pages = {29723-29735},
+month = dec,
+url = {all_papers/JainRSST21.pdf}
+}
+@article{KusupatiWRSPPJKF21,
+title = {Llc: Accurate, multi-purpose learnt low-dimensional binary codes},
+author = {Aditya Kusupati, Matthew Wallingford, Vivek Ramanujan, Raghav Somani, Jae Sung Park, Krishna Pillutla, Prateek Jain, Sham Kakade, Ali Farhadi},
+abstract = {Learning binary representations of instances and classes is a classical problem with several high potential applications. In modern settings, the compression of high-dimensional neural representations to low-dimensional binary codes is a challenging task and often require large bit-codes to be accurate. In this work, we propose a novel method for $\textbf {L} $ earning $\textbf {L} $ ow-dimensional binary $\textbf {C} $ odes $(\textbf {LLC}) $ for instances as well as classes. Our method does ${\textit {not}} $ require any side-information, like annotated attributes or label meta-data, and learns extremely low-dimensional binary codes ($\approx 20$ bits for ImageNet-1K). The learnt codes are super-efficient while still ensuring $\textit {nearly optimal} $ classification accuracy for ResNet50 on ImageNet-1K. We demonstrate that the learnt codes capture intrinsically important features in the data, by discovering an intuitive taxonomy over classes. We further quantitatively measure the quality of our codes by applying it to the efficient image retrieval as well as out-of-distribution (OOD) detection problems. For ImageNet-100 retrieval problem, our learnt binary codes outperform $16 $ bit HashNet using only $10 $ bits and also are as accurate as $10 $ dimensional real representations. Finally, our learnt binary codes can perform OOD detection, out-of-the-box, as accurately as a baseline that needs $\approx3000 $ samples to tune its threshold, while we require ${\textit {none}} $. Code is open-sourced at https://github. com/RAIVNLab/LLC.},
+journal = {Advances in neural information processing systems},
+year = {2021},
+pages = {23900-23913},
+month = dec,
+url = {all_papers/KusupatiWRSPPJKF21.pdf}
+}
+@article{DaigavaneMSTAJ21,
+title = {Node-level differentially private graph neural networks},
+author = {Ameya Daigavane, Gagan Madan, Aditya Sinha, Abhradeep Guha Thakurta, Gaurav Aggarwal, Prateek Jain},
+abstract = {Graph Neural Networks (GNNs) are a popular technique for modelling graph-structured data and computing node-level representations via aggregation of information from the neighborhood of each node. However, this aggregation implies an increased risk of revealing sensitive information, as a node can participate in the inference for multiple nodes. This implies that standard privacy-preserving machine learning techniques, such as differentially private stochastic gradient descent (DP-SGD) - which are designed for situations where each data point participates in the inference for one point only - either do not apply, or lead to inaccurate models. In this work, we formally define the problem of learning GNN parameters with node-level privacy, and provide an algorithmic solution with a strong differential privacy guarantee. We employ a careful sensitivity analysis and provide a non-trivial extension of the privacy-by-amplification technique to the GNN setting. An empirical evaluation on standard benchmark datasets demonstrates that our method is indeed able to learn accurate privacy-preserving GNNs which outperform both private and non-private methods that completely ignore graph information.},
+journal = {arXiv preprint arXiv:2111.15521},
+year = {2021},
+pages = {},
+month = nov,
+url = {all_papers/DaigavaneMSTAJ21.pdf}
+}
+@article{AgarwalCJNN21,
+title = {Online target q-learning with reverse experience replay: Efficiently finding the optimal policy for linear mdps},
+author = {Naman Agarwal, Syomantak Chaudhuri, Prateek Jain, Dheeraj Nagaraj, Praneeth Netrapalli},
+abstract = {Q-learning is a popular Reinforcement Learning (RL) algorithm which is widely used in practice with function approximation (Mnih et al., 2015). In contrast, existing theoretical results are pessimistic about Q-learning. For example, (Baird, 1995) shows that Q-learning does not converge even with linear function approximation for linear MDPs. Furthermore, even for tabular MDPs with synchronous updates, Q-learning was shown to have sub-optimal sample complexity (Li et al., 2021;Azar et al., 2013). The goal of this work is to bridge the gap between practical success of Q-learning and the relatively pessimistic theoretical results. The starting point of our work is the observation that in practice, Q-learning is used with two important modifications: (i) training with two networks, called online network and target network simultaneously (online target learning, or OTL) , and (ii) experience replay (ER) (Mnih et al., 2015). While they have been observed to play a significant role in the practical success of Q-learning, a thorough theoretical understanding of how these two modifications improve the convergence behavior of Q-learning has been missing in literature. By carefully combining Q-learning with OTL and reverse experience replay (RER) (a form of experience replay), we present novel methods Q-Rex and Q-RexDaRe (Q-Rex + data reuse). We show that Q-Rex efficiently finds the optimal policy for linear MDPs (or more generally for MDPs with zero inherent Bellman error with linear approximation (ZIBEL)) and provide non-asymptotic bounds on sample complexity -- the first such result for a Q-learning method for this class of MDPs under standard …},
+journal = {arXiv preprint arXiv:2110.08440},
+year = {2021},
+pages = {},
+month = oct,
+url = {all_papers/AgarwalCJNN21.pdf}
+}
+@article{NarayananSJKS21,
+title = {Iglu: Efficient GCN training via lazy updates},
+author = {S Deepak Narayanan, Aditya Sinha, Prateek Jain, Purushottam Kar, Sundararajan Sellamanickam},
+abstract = {Training multi-layer Graph Convolution Networks (GCN) using standard SGD techniques scales poorly as each descent step ends up updating node embeddings for a large portion of the graph. Recent attempts to remedy this sub-sample the graph that reduces compute but introduce additional variance and may offer suboptimal performance. This paper develops the IGLU method that caches intermediate computations at various GCN layers thus enabling lazy updates that significantly reduce the compute cost of descent. IGLU introduces bounded bias into the gradients but nevertheless converges to a first-order saddle point under standard assumptions such as objective smoothness. Benchmark experiments show that IGLU offers up to 1.2% better accuracy despite requiring up to 88% less compute.},
+journal = {arXiv preprint arXiv:2109.13995},
+year = {2021},
+pages = {},
+month = sep,
+url = {all_papers/NarayananSJKS21.pdf}
+}
+@article{ThekumparampilJNO21,
+title = {Sample efficient linear meta-learning by alternating minimization},
+author = {Kiran Koshy Thekumparampil, Prateek Jain, Praneeth Netrapalli, Sewoong Oh},
+abstract = {Meta-learning synthesizes and leverages the knowledge from a given set of tasks to rapidly learn new tasks using very little data. Meta-learning of linear regression tasks, where the regressors lie in a low-dimensional subspace, is an extensively-studied fundamental problem in this domain. However, existing results either guarantee highly suboptimal estimation errors, or require samples per task (where is the data dimensionality) thus providing little gain over separately learning each task. In this work, we study a simple alternating minimization method (MLLAM), which alternately learns the low-dimensional subspace and the regressors. We show that, for a constant subspace dimension MLLAM obtains nearly-optimal estimation error, despite requiring only samples per task. However, the number of samples required per task grows logarithmically with the number of tasks. To remedy this in the low-noise regime, we propose a novel task subset selection scheme that ensures the same strong statistical guarantee as MLLAM, even with bounded number of samples per task for arbitrarily large number of tasks.},
+journal = {arXiv preprint arXiv:2105.08306},
+year = {2021},
+pages = {},
+month = may,
+url = {all_papers/ThekumparampilJNO21.pdf}
+}
+@article{JainKNN21,
+title = {Streaming linear system identification with reverse experience replay},
+author = {Prateek Jain, Suhas S Kowshik, Dheeraj Nagaraj, Praneeth Netrapalli},
+abstract = {We consider the problem of estimating a linear time-invariant (LTI) dynamical system from a single trajectory via streaming algorithms, which is encountered in several applications including reinforcement learning (RL) and time-series analysis. While the LTI system estimation problem is well-studied in the {\em offline} setting, the practically important streaming/online setting has received little attention. Standard streaming methods like stochastic gradient descent (SGD) are unlikely to work since streaming points can be highly correlated. In this work, we propose a novel streaming algorithm, SGD with Reverse Experience Replay (), that is inspired by the experience replay (ER) technique popular in the RL literature. divides data into small buffers and runs SGD backwards on the data stored in the individual buffers. We show that this algorithm exactly deconstructs the dependency structure and obtains information theoretically optimal guarantees for both parameter error and prediction error. Thus, we provide the first -- to the best of our knowledge -- optimal SGD-style algorithm for the classical problem of linear system identification with a first order oracle. Furthermore, can be applied to more general settings like sparse LTI identification with known sparsity pattern, and non-linear dynamical systems. Our work demonstrates that the knowledge of data dependency structure can aid us in designing statistically and computationally efficient algorithms which can "decorrelate" streaming samples.},
+journal = {arXiv preprint arXiv:2103.05896},
+year = {2021},
+pages = {},
+month = mar,
+url = {all_papers/JainKNN21.pdf}
+}
+@article{KarthikeyanJNJ21,
+title = {Learning accurate decision trees with bandit feedback via quantized gradient descent},
+author = {Ajaykrishna Karthikeyan, Naman Jain, Nagarajan Natarajan, Prateek Jain},
+abstract = {Decision trees provide a rich family of highly non-linear but efficient models, due to which they continue to be the go-to family of predictive models by practitioners across domains. But learning trees is challenging due to their discrete decision boundaries. The state-of-the-art (SOTA) techniques resort to (a) learning \textit{soft} trees thereby losing logarithmic inference time; or (b) using methods tailored to specific supervised learning settings, requiring access to labeled examples and loss function. In this work, by leveraging techniques like overparameterization and straight-through estimators, we propose a unified method that enables accurate end-to-end gradient based tree training and can be deployed in a variety of settings like offline supervised learning and online learning with bandit feedback. Using extensive validation on standard benchmarks, we demonstrate that our method provides best of both worlds, i.e., it is competitive to, and in some cases more accurate than methods designed \textit{specifically} for the supervised settings; and in bandit settings, where most existing tree learning techniques are not applicable, our models are still accurate and significantly outperform the applicable SOTA methods.},
+journal = {arXiv preprint arXiv:2102.07567},
+year = {2021},
+pages = {},
+month = feb,
+url = {all_papers/KarthikeyanJNJ21.pdf}
+}
+@article{SoJMS20,
+title = {Nonconvex Optimization for Signal Processing and Machine Learning [From the Guest Editors]},
+author = {Anthony Man-Cho So, Prateek Jain, Wing-Kin Ma, Gesualdo Scutari},
+abstract = {The articles in this special section focus on nonconvex optimization for signal processing and machine learning. Optimization is now widely recognized as an indispensable tool in signal processing (SP) and machine learning (ML). Indeed, many of the advances in these fields rely crucially on the formulation of suitable optimization models and deployment of efficient numerical optimization algorithms. In the early 2000s, there was a heavy focus on the use of convex optimization techniques to tackle SP and ML applications. This is largely due to the fact that convex optimization problems often possess favorable theoretical and computational properties and that many problems of practical interest have been shown to admit convex formulations or good convex approximations.},
+journal = {IEEE Signal Processing Magazine},
+year = {2020},
+pages = {15-17},
+month = sep,
+url = {all_papers/SoJMS20.pdf}
+}
+@article{NatarajanKJRRGG20,
+title = {Programming by rewards},
+author = {Nagarajan Natarajan, Ajaykrishna Karthikeyan, Prateek Jain, Ivan Radicek, Sriram Rajamani, Sumit Gulwani, Johannes Gehrke},
+abstract = {We formalize and study ``programming by rewards'' (PBR), a new approach for specifying and synthesizing subroutines for optimizing some quantitative metric such as performance, resource utilization, or correctness over a benchmark. A PBR specification consists of (1) input features , and (2) a reward function , modeled as a black-box component (which we can only run), that assigns a reward for each execution. The goal of the synthesizer is to synthesize a "decision function" which transforms the features to a decision value for the black-box component so as to maximize the expected reward for executing decisions for various values of . We consider a space of decision functions in a DSL of loop-free if-then-else programs, which can branch on linear functions of the input features in a tree-structure and compute a linear function of the inputs in the leaves of the tree. We find that this DSL captures decision functions that are manually written in practice by programmers. Our technical contribution is the use of continuous-optimization techniques to perform synthesis of such decision functions as if-then-else programs. We also show that the framework is theoretically-founded ---in cases when the rewards satisfy nice properties, the synthesized code is optimal in a precise sense. We have leveraged PBR to synthesize non-trivial decision functions related to search and ranking heuristics in the PROSE codebase (an industrial strength program synthesis framework) and achieve competitive results to manually written procedures over multiple man years of tuning. We present empirical evaluation against other baseline techniques over …},
+journal = {arXiv preprint arXiv:2007.06835},
+year = {2020},
+pages = {},
+month = jul,
+url = {all_papers/NatarajanKJRRGG20.pdf}
+}
+@article{MukhotyGJK20,
+title = {Globally-convergent iteratively reweighted least squares for robust regression problems},
+author = {Bhaskar Mukhoty, Govind Gopakumar, Prateek Jain, Purushottam Kar},
+abstract = {We provide the first global model recovery results for the IRLS (iteratively reweighted least squares) heuristic for robust regression problems. IRLS is known to offer excellent performance, despite bad initializations and data corruption, for several parameter estimation problems. Existing analyses of IRLS frequently require careful initialization, thus offering only local convergence guarantees. We remedy this by proposing augmentations to the basic IRLS routine that not only offer guaranteed global recovery, but in practice also outperform state-of-the-art algorithms for robust regression. Our routines are more immune to hyperparameter misspecification in basic regression tasks, as well as applied tasks such as linear-armed bandit problems. Our theoretical analyses rely on a novel extension of the notions of strong convexity and smoothness to weighted strong convexity and smoothness, and establishing that sub-Gaussian designs offer bounded weighted condition numbers. These notions may be useful in analyzing other algorithms as well.},
+journal = {arXiv preprint arXiv:2006.14211},
+year = {2020},
+pages = {},
+month = jun,
+url = {all_papers/MukhotyGJK20.pdf}
+}
+@article{BiswasBJM20,
+title = {COVID-19: strategies for allocation of test kits},
+author = {Arpita Biswas, Shruthi Bannur, Prateek Jain, Srujana Merugu},
+abstract = {With the increasing spread of COVID-19, it is important to systematically test more and more people. The current strategy for test-kit allocation is mostly rule-based, focusing on individuals having (a) symptoms for COVID-19, (b) travel history or (c) contact history with confirmed COVID-19 patients. Such testing strategy may miss out on detecting asymptomatic individuals who got infected via community spread. Thus, it is important to allocate a separate budget of test-kits per day targeted towards preventing community spread and detecting new cases early on. In this report, we consider the problem of allocating test-kits and discuss some solution approaches. We believe that these approaches will be useful to contain community spread and detect new cases early on. Additionally, these approaches would help in collecting unbiased data which can then be used to improve the accuracy of machine learning models trained to predict COVID-19 infections.},
+journal = {arXiv preprint arXiv:2004.01740},
+year = {2020},
+pages = {},
+month = apr,
+url = {all_papers/BiswasBJM20.pdf}
+}
+@article{BudhirajaHCSYCKJ20,
+title = {Rich-Item Recommendations for Rich-Users: Exploiting Dynamic and Static Side Information},
+author = {Amar Budhiraja, Gaurush Hiranandani, Darshak Chhatbar, Aditya Sinha, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo, Prateek Jain},
+abstract = {In this paper, we study the problem of recommendation system where the users and items to be recommended are rich data structures with multiple entity types and with multiple sources of side-information in the form of graphs. We provide a general formulation for the problem that captures the complexities of modern real-world recommendations and generalizes many existing formulations. In our formulation, each user/document that requires a recommendation and each item or tag that is to be recommended, both are modeled by a set of static entities and a dynamic component. The relationships between entities are captured by several weighted bipartite graphs. To effectively exploit these complex interactions and learn the recommendation model, we propose MEDRES- a multiple graph-CNN based novel deep-learning architecture. MEDRES uses AL-GCN, a novel graph convolution network block, that harnesses strong representative features from the underlying graphs. Moreover, in order to capture highly heterogeneous engagement of different users with the system and constraints on the number of items to be recommended, we propose a novel ranking metric pAp@k along with a method to optimize the metric directly. We demonstrate effectiveness of our method on two benchmarks: a) citation data, b) Flickr data. In addition, we present two real-world case studies of our formulation and the MEDRES architecture. We show how our technique can be used to naturally model the message recommendation problem and the teams recommendation problem in the Microsoft Teams (MSTeams) product and demonstrate that it is 5-6% points more …},
+journal = {arXiv preprint arXiv:2001.10495},
+year = {2020},
+pages = {},
+month = jan,
+url = {all_papers/BudhirajaHCSYCKJ20.pdf}
+}
+@article{ThekumparampilJNO20,
+title = {Optimal nonsmooth Frank-Wolfe method for stochastic regret minimization},
+author = {Kiran Koshy Thekumparampil, Prateek Jain, Praneeth Netrapalli, Sewoong Oh},
+abstract = {The current best-known algorithm for convex constrained nonsmooth online stochastic regret minimization using a Linear Minimization Oracle (LMO, a la Frank-Wolfe) and a Stochastic First-order Oracle (SFO) achieves a regret of O (K3/4), where K is the number of iterations [26]. We provide two novel single-loop nonsmooth Frank-Wolfe methods, P-MOLES & PD-MOLES, which achieve the nearly-optimal online stochastic (non-adversarial) regret of O (},
+journal = {12th OPT Workshop on Optimization for Machine Learning (OPT2020)},
+year = {2020},
+pages = {},
+month = dec,
+url = {all_papers/ThekumparampilJNO20.pdf}
+}
+@article{NagarajWBJN20,
+title = {Least squares regression with markovian data: Fundamental limits and algorithms},
+author = {Dheeraj Nagaraj, Xian Wu, Guy Bresler, Prateek Jain, Praneeth Netrapalli},
+abstract = {We study the problem of least squares linear regression where the datapoints are dependent and are sampled from a Markov chain. We establish sharp information theoretic minimax lower bounds for this problem in terms of $\tmix $, the mixing time of the underlying Markov chain, under different noise settings. Our results establish that in general, optimization with Markovian data is strictly harder than optimization with independent data and a trivial algorithm (SGD-DD) that works with only one in every $\tmix $ samples, which are approximately independent, is minimax optimal. In fact, it is strictly better than the popular Stochastic Gradient Descent (SGD) method with constant step-size which is otherwise minimax optimal in the regression with independent data setting. Beyond a worst case analysis, we investigate whether structured datasets seen in practice such as Gaussian auto-regressive dynamics can admit more efficient optimization schemes. Surprisingly, even in this specific and natural setting, Stochastic Gradient Descent (SGD) with constant step-size is still no better than SGD-DD. Instead, we propose an algorithm based on experience replay--a popular reinforcement learning technique--that achieves a significantly better error rate. Our improved rate serves as one of the first results where an algorithm outperforms SGD-DD on an interesting Markov chain and also provides one of the first theoretical analyses to support the use of experience replay in practice.},
+journal = {Advances in neural information processing systems},
+year = {2020},
+pages = {16666-16676},
+month = dec,
+url = {all_papers/NagarajWBJN20.pdf}
+}
+@article{DennisAMSSSJ19,
+title = {Shallow RNNs: A method for accurate time-series classification on tiny devices},
+author = {Don Kurian Dennis, Durmus Alp Emre Acar, Vikram Mandikal, Vinu Sankar Sadasivan, Harsha Vardhan Simhadri, Venkatesh Saligrama, Prateek Jain},
+abstract = {Recurrent Neural Networks (RNNs) capture long dependencies and context, and hence are the key component of typical sequential data based tasks. However, the sequential nature of RNNs dictates a large inference cost for long sequences even if the hardware supports parallelization. To induce long-term dependencies, and yet admit parallelization, we introduce novel shallow RNNs. In this architecture, the first layer splits the input sequence and runs several independent RNNs. The second layer consumes the output of the first layer using a second RNN thus capturing long dependencies. We provide theoretical justification for our architecture under weak assumptions that we verify on real-world benchmarks. Furthermore, we show that for time-series classification, our technique leads to substantially improved inference time over standard RNNs without compromising accuracy. For example, we can deploy audio-keyword classification on tiny Cortex M4 devices (100MHz processor, 256KB RAM, no DSP available) which was not possible using standard RNN models. Similarly, using ShaRNN in the popular Listen-Attend-Spell (LAS) architecture for phoneme classification [4], we can reduce the lag in phoneme classification by 10-12x while maintaining state-of-the-art accuracy.},
+journal = {},
+year = {2019},
+pages = {12916-12926},
+month = dec,
+url = {all_papers/DennisAMSSSJ19.pdf}
+}
+@article{BhatiaPNSJ19,
+title = {On Scaling Data-Driven Loop Invariant Inference},
+author = {Sahil Bhatia, Saswat Padhi, Nagarajan Natarajan, Rahul Sharma, Prateek Jain},
+abstract = {Automated synthesis of inductive invariants is an important problem in software verification. Once all the invariants have been specified, software verification reduces to checking of verification conditions. Although static analyses to infer invariants have been studied for over forty years, recent years have seen a flurry of data-driven invariant inference techniques which guess invariants from examples instead of analyzing program text. However, these techniques have been demonstrated to scale only to programs with a small number of variables. In this paper, we study these scalability issues and address them in our tool oasis that improves the scale of data-driven invariant inference and outperforms state-of-the-art systems on benchmarks from the invariant inference track of the Syntax Guided Synthesis competition.},
+journal = {arXiv preprint arXiv:1911.11728},
+year = {2019},
+pages = {},
+month = nov,
+url = {all_papers/BhatiaPNSJ19.pdf}
+}
+@article{PatilDPSSSVJ19,
+title = {Gesturepod: Enabling on-device gesture-based interaction for white cane users},
+author = {Shishir G Patil, Don Kurian Dennis, Chirag Pabbaraju, Nadeem Shaheer, Harsha Vardhan Simhadri, Vivek Seshadri, Manik Varma, Prateek Jain},
+abstract = {People using white canes for navigation find it challenging to concurrently access devices such as smartphones. Building on prior research on abandonment of specialized devices, we explore a new touch free mode of interaction wherein a person with visual impairment can perform gestures on their existing white cane to trigger tasks on their smartphone. We present GesturePod, an easy-to-integrate device that clips on to any white cane, and detects gestures performed with the cane. With GesturePod, a user can perform common tasks on their smartphone without touch or even removing the phone from their pocket or bag. We discuss the challenges in building the device and our design choices. We propose a novel, efficient machine learning pipeline to train and deploy the gesture recognition model. Our in-lab study shows that GesturePod achieves 92% gesture recognition accuracy and can help perform …},
+journal = {},
+year = {2019},
+pages = {403-415},
+month = oct,
+url = {all_papers/PatilDPSSSVJ19.pdf}
+}
+@article{GuptaWNKJR19,
+title = {Distributional semantics meets multi-label learning},
+author = {Vivek Gupta, Rahul Wadbude, Nagarajan Natarajan, Harish Karnick, Prateek Jain, Piyush Rai},
+abstract = {We present a label embedding based approach to large-scale multi-label learning, drawing inspiration from ideas rooted in distributional semantics, specifically the Skip Gram Negative Sampling (SGNS) approach, widely used to learn word embeddings. Besides leading to a highly scalable model for multi-label learning, our approach highlights interesting connections between label embedding methods commonly used for multi-label learning and paragraph embedding methods commonly used for learning representations of text data. The framework easily extends to incorporating auxiliary information such as label-label correlations; this is crucial especially when many training instances are only partially annotated. To facilitate end-to-end learning, we develop a joint learning algorithm that can learn the embeddings as well as a regression model that predicts these embeddings for the new input to be annotated, via efficient gradient based methods. We demonstrate the effectiveness of our approach through an extensive set of experiments on a variety of benchmark datasets, and show that the proposed models perform favorably as compared to state-of-the-art methods for large-scale multi-label learning.},
+journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+year = {2019},
+pages = {3747-3754},
+month = jul,
+url = {all_papers/GuptaWNKJR19.pdf}
+}
+@article{PabbarajuJ19,
+title = {Learning functions over sets via permutation adversarial networks},
+author = {Chirag Pabbaraju, Prateek Jain},
+abstract = {In this paper, we consider the problem of learning functions over sets, i.e., functions that are invariant to permutations of input set items. Recent approaches of pooling individual element embeddings can necessitate extremely large embedding sizes for challenging functions. We address this challenge by allowing standard neural networks like LSTMs to succinctly capture the function over the set. However, to ensure invariance with respect to permutations of set elements, we propose a novel architecture called SPAN that simultaneously learns the function as well as adversarial or worst-case permutations for each input set. The learning problem reduces to a min-max optimization problem that is solved via a simple alternating block coordinate descent technique. We conduct extensive experiments on a variety of set-learning tasks and demonstrate that SPAN learns nearly permutation-invariant functions while still ensuring accuracy on test data. On a variety of tasks sampled from the domains of statistics, graph functions and linear algebra, we show that our method can significantly outperform state-of-the-art methods such as DeepSets and Janossy Pooling. Finally, we present a case study of how learning set-functions can help extract powerful features for recommendation systems, and show that such a method can be as much as 2% more accurate than carefully hand-tuned features on a real-world recommendation system.},
+journal = {arXiv preprint arXiv:1907.05638},
+year = {2019},
+pages = {},
+month = jul,
+url = {all_papers/PabbarajuJ19.pdf}
+}
+@article{Jain19,
+title = {Gradient Methods for Non-convex Optimization},
+author = {Prateek Jain},
+abstract = {Non-convex optimization forms bedrock of most modern machine learning (ML) techniques such as deep learning. While non-convex optimization problems have been studied for the past several decades, ML-based problems have significantly different characteristics and requirements due to large datasets and high-dimensional parameter spaces along with the statistical nature of the problem. Over the last few years, there has been a flurry of activity in non-convex optimization for such ML problems. This article surveys a few of the foundational approaches in this domain.},
+journal = {},
+year = {2019},
+pages = {247-256},
+month = jun,
+url = {all_papers/Jain19.pdf}
+}
+@article{SomaniGJN19,
+title = {Universality Patterns in the Training of Neural Networks},
+author = {Raghav Somani, Navin Goyal, Prateek Jain, Praneeth Netrapalli},
+abstract = {This paper proposes and demonstrates a surprising pattern in the training of neural networks: there is a one to one relation between the values of any pair of losses (such as cross entropy, mean squared error, 0/1 error etc.) evaluated for a model arising at (any point of) a training run. This pattern is universal in the sense that this one to one relationship is identical across architectures (such as VGG, Resnet, Densenet etc.), algorithms (SGD and SGD with momentum) and training loss functions (cross entropy and mean squared error).},
+journal = {},
+year = {2019},
+pages = {},
+month = may,
+url = {all_papers/SomaniGJN19.pdf}
+}

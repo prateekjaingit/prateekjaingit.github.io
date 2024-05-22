@@ -1,0 +1,5399 @@
+[
+    {
+    "title":
+    "Sample-Efficient Personalization: Modeling User Parameters as Low Rank Plus Sparse Components",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:wyM6WWKXmoIC",
+    "citation_id":
+    "qYhRbJoAAAAJ:wyM6WWKXmoIC",
+    "authors":
+    "S Pal, P Varshney, G Madan, P Jain, A Thakurta, G Aggarwal, P Shenoy, ...",
+    "publication":
+    "International Conference on Artificial Intelligence and Statistics, 1702-1710, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Gecko: Versatile text embeddings distilled from large language models",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:rLGzs9wiiwIC",
+    "citation_id":
+    "qYhRbJoAAAAJ:rLGzs9wiiwIC",
+    "authors":
+    "J Lee, Z Dai, X Ren, B Chen, D Cer, JR Cole, K Hui, M Boratko, ...",
+    "publication":
+    "arXiv preprint arXiv:2403.20327, 2024",
+    "cited_by":
+    {
+    "value":
+    2,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3967017881919572069",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=3967017881919572069&engine=google_scholar&hl=en",
+    "cites_id":
+    "3967017881919572069"
+    },
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Privacy-enhanced training and deployment of machine learning models using client-side and server-side data",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:YPNY0knpFBYC",
+    "citation_id":
+    "qYhRbJoAAAAJ:YPNY0knpFBYC",
+    "authors":
+    "AG Thakurta, L Zhang, P Jain, S Song, S Rendle, SST Chien, W Krichene, ...",
+    "publication":
+    "US Patent App. 17/928,372, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "HiRE: High Recall Approximate Top- Estimation for Efficient LLM Inference",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:H7nrzBkawXsC",
+    "citation_id":
+    "qYhRbJoAAAAJ:H7nrzBkawXsC",
+    "authors":
+    "V Yerram, C You, S Bhojanapalli, S Kumar, P Jain, P Netrapalli",
+    "publication":
+    "arXiv preprint arXiv:2402.09360, 2024",
+    "cited_by":
+    {
+    "value":
+    1,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8198853413902406113",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=8198853413902406113&engine=google_scholar&hl=en",
+    "cites_id":
+    "8198853413902406113"
+    },
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Tandem Transformers for Inference Efficient LLMs",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:3_LpOwP6eMYC",
+    "citation_id":
+    "qYhRbJoAAAAJ:3_LpOwP6eMYC",
+    "authors":
+    "PA Nair, Y Samaga, T Boyd, S Kumar, P Jain, P Netrapalli",
+    "publication":
+    "arXiv preprint arXiv:2402.08644, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Label Robust and Differentially Private Linear Regression: Computational and Statistical Efficiency",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:bVQMTfhMCi4C",
+    "citation_id":
+    "qYhRbJoAAAAJ:bVQMTfhMCi4C",
+    "authors":
+    "X Liu, P Jain, W Kong, S Oh, A Suggala",
+    "publication":
+    "Advances in Neural Information Processing Systems 36, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Blocked Collaborative Bandits: Online Collaborative Filtering with Per-Item Budget Constraints",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Y0-TYkg6YM4C",
+    "citation_id":
+    "qYhRbJoAAAAJ:Y0-TYkg6YM4C",
+    "authors":
+    "S Pal, A Suggala, K Shanmugam, P Jain",
+    "publication":
+    "Advances in Neural Information Processing Systems 36, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Adanns: A framework for adaptive semantic search",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:_tF6a-HnqWAC",
+    "citation_id":
+    "qYhRbJoAAAAJ:_tF6a-HnqWAC",
+    "authors":
+    "A Rege, A Kusupati, A Fan, Q Cao, S Kakade, P Jain, A Farhadi",
+    "publication":
+    "Advances in Neural Information Processing Systems 36, 2024",
+    "cited_by":
+    {
+    "value":
+    2,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17121679289047479146",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=17121679289047479146&engine=google_scholar&hl=en",
+    "cites_id":
+    "17121679289047479146"
+    },
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Simplicity bias in 1-hidden layer neural networks",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:DXE8ND7PrJAC",
+    "citation_id":
+    "qYhRbJoAAAAJ:DXE8ND7PrJAC",
+    "authors":
+    "D Morwani, J Batra, P Jain, P Netrapalli",
+    "publication":
+    "Advances in Neural Information Processing Systems 36, 2024",
+    "cited_by":
+    {
+    "value":
+    7,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6580886461674199535",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6580886461674199535&engine=google_scholar&hl=en",
+    "cites_id":
+    "6580886461674199535"
+    },
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Tandem Transformers for Inference Efficient LLMs",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:xGWFX6Gbr9MC",
+    "citation_id":
+    "qYhRbJoAAAAJ:xGWFX6Gbr9MC",
+    "authors":
+    "P Ajit Nair, Y Samaga, T Boyd, S Kumar, P Jain, P Netrapalli",
+    "publication":
+    "arXiv e-prints, arXiv: 2402.08644, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Multiple-entity-based recommendation system",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:F2UWTTQJPOcC",
+    "citation_id":
+    "qYhRbJoAAAAJ:F2UWTTQJPOcC",
+    "authors":
+    "L Menon, A Budhiraja, G Hiranandani, P Jain, DA Shah, A Choure, ...",
+    "publication":
+    "US Patent 11,886,971, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Llm augmented llms: Expanding capabilities through composition",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:I8rxH6phXEkC",
+    "citation_id":
+    "qYhRbJoAAAAJ:I8rxH6phXEkC",
+    "authors":
+    "R Bansal, B Samanta, S Dalmia, N Gupta, S Vashishth, S Ganapathy, ...",
+    "publication":
+    "arXiv preprint arXiv:2401.02412, 2024",
+    "cited_by":
+    {
+    "value":
+    12,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3668029210306898471",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=3668029210306898471&engine=google_scholar&hl=en",
+    "cites_id":
+    "3668029210306898471"
+    },
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Attention neural networks with tree attention mechanisms",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:yeL6HyUMUGUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:yeL6HyUMUGUC",
+    "authors":
+    "H Jain, L Madaan, P Jain, VSPS Bhojanapalli",
+    "publication":
+    "US Patent App. 18/343,723, 2024",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2024"
+    },
+    {
+    "title":
+    "Matformer: Nested transformer for elastic inference",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:In6cVmBjs0IC",
+    "citation_id":
+    "qYhRbJoAAAAJ:In6cVmBjs0IC",
+    "authors":
+    "F Devvrit, S Kudugunta, A Kusupati, T Dettmers, K Chen, IS Dhillon, ...",
+    "publication":
+    "Workshop on Advancing Neural Network Training: Computational Efficiency …, 2023",
+    "cited_by":
+    {
+    "value":
+    2,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5771251231597276327",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=5771251231597276327&engine=google_scholar&hl=en",
+    "cites_id":
+    "5771251231597276327"
+    },
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "Efficacy of dual-encoders for extreme multi-label classification",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:tz746QTLzJkC",
+    "citation_id":
+    "qYhRbJoAAAAJ:tz746QTLzJkC",
+    "authors":
+    "N Gupta, D Khatri, AS Rawat, S Bhojanapalli, P Jain, IS Dhillon",
+    "publication":
+    "arXiv preprint arXiv:2310.10636, 2023",
+    "cited_by":
+    {
+    "value":
+    2,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16390551988349385183",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=16390551988349385183&engine=google_scholar&hl=en",
+    "cites_id":
+    "16390551988349385183"
+    },
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "EHI: End-to-end Learning of Hierarchical Index for Efficient Dense Retrieval",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:L24QuVWYgZ0C",
+    "citation_id":
+    "qYhRbJoAAAAJ:L24QuVWYgZ0C",
+    "authors":
+    "R Kumar, A Mittal, N Gupta, A Kusupati, I Dhillon, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2310.08891, 2023",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "MatFormer: Nested Transformer for Elastic Inference",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:7H_jS4BsgvYC",
+    "citation_id":
+    "qYhRbJoAAAAJ:7H_jS4BsgvYC",
+    "authors":
+    "S Kudugunta, A Kusupati, T Dettmers, K Chen, I Dhillon, Y Tsvetkov, ...",
+    "publication":
+    "arXiv preprint arXiv:2310.07707, 2023",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "Multi-task differential privacy under distribution skew",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:oTdOBqtIf_kC",
+    "citation_id":
+    "qYhRbJoAAAAJ:oTdOBqtIf_kC",
+    "authors":
+    "W Krichene, P Jain, S Song, M Sundararajan, AG Thakurta, L Zhang",
+    "publication":
+    "International Conference on Machine Learning, 17784-17807, 2023",
+    "cited_by":
+    {
+    "value":
+    4,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6377794586085477602",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6377794586085477602&engine=google_scholar&hl=en",
+    "cites_id":
+    "6377794586085477602"
+    },
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "Multi-user reinforcement learning with low rank rewards",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:2vr6o8x5NLkC",
+    "citation_id":
+    "qYhRbJoAAAAJ:2vr6o8x5NLkC",
+    "authors":
+    "DM Nagaraj, SS Kowshik, N Agarwal, P Netrapalli, P Jain",
+    "publication":
+    "International Conference on Machine Learning, 25627-25659, 2023",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "End-to-End Neural Network Compression via Regularized Latency Surrogates",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:x21FZCSn4ZoC",
+    "citation_id":
+    "qYhRbJoAAAAJ:x21FZCSn4ZoC",
+    "authors":
+    "A Nasery, H Shah, AS Suggala, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2306.05785, 2023",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "Optimal algorithms for latent bandits with cluster structure",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:pYKElYtJMmwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:pYKElYtJMmwC",
+    "authors":
+    "S Pal, AS Suggala, K Shanmugam, P Jain",
+    "publication":
+    "International Conference on Artificial Intelligence and Statistics, 7540-7577, 2023",
+    "cited_by":
+    {
+    "value":
+    4,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9755051290853975692",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=9755051290853975692&engine=google_scholar&hl=en",
+    "cites_id":
+    "9755051290853975692"
+    },
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "Near optimal private and robust linear regression",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Vr2j17o0sqMC",
+    "citation_id":
+    "qYhRbJoAAAAJ:Vr2j17o0sqMC",
+    "authors":
+    "X Liu, P Jain, W Kong, S Oh, AS Suggala",
+    "publication":
+    "arXiv preprint arXiv:2301.13273, 2023",
+    "cited_by":
+    {
+    "value":
+    4,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6771463765546356557",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6771463765546356557&engine=google_scholar&hl=en",
+    "cites_id":
+    "6771463765546356557"
+    },
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "LEARNING AN INVERTIBLE OUTPUT MAPPING CAN MITIGATE SIMPLICITY BIAS IN NEURAL NETWORKS",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:6VlyvFCUEfcC",
+    "citation_id":
+    "qYhRbJoAAAAJ:6VlyvFCUEfcC",
+    "authors":
+    "A Nasery, P Netrapalli, P Jain, S Addepalli",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2023"
+    },
+    {
+    "title":
+    "Matryoshka representation learning",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:WwIwg2wKZ0QC",
+    "citation_id":
+    "qYhRbJoAAAAJ:WwIwg2wKZ0QC",
+    "authors":
+    "A Kusupati, G Bhatt, A Rege, M Wallingford, A Sinha, V Ramanujan, ...",
+    "publication":
+    "Advances in Neural Information Processing Systems 35, 30233-30249, 2022",
+    "cited_by":
+    {
+    "value":
+    22,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15922805360081593111",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=15922805360081593111&engine=google_scholar&hl=en",
+    "cites_id":
+    "15922805360081593111"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "S3GC: scalable self-supervised graph clustering",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:ji7lAbPyDbYC",
+    "citation_id":
+    "qYhRbJoAAAAJ:ji7lAbPyDbYC",
+    "authors":
+    "F Devvrit, A Sinha, I Dhillon, P Jain",
+    "publication":
+    "Advances in Neural Information Processing Systems 35, 3248-3261, 2022",
+    "cited_by":
+    {
+    "value":
+    12,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5387283137336404685",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=5387283137336404685&engine=google_scholar&hl=en",
+    "cites_id":
+    "5387283137336404685"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "DP-PCA: Statistically optimal and differentially private PCA",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:BmWJbWwHJAwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:BmWJbWwHJAwC",
+    "authors":
+    "X Liu, W Kong, P Jain, S Oh",
+    "publication":
+    "Advances in neural information processing systems 35, 29929-29943, 2022",
+    "cited_by":
+    {
+    "value":
+    14,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6324054649217015241",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6324054649217015241&engine=google_scholar&hl=en",
+    "cites_id":
+    "6324054649217015241"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Reproducibility in optimization: Theoretical framework and limits",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:zwpXiJ37cpgC",
+    "citation_id":
+    "qYhRbJoAAAAJ:zwpXiJ37cpgC",
+    "authors":
+    "K Ahn, P Jain, Z Ji, S Kale, P Netrapalli, GI Shamir",
+    "publication":
+    "Advances in Neural Information Processing Systems 35, 18022-18033, 2022",
+    "cited_by":
+    {
+    "value":
+    13,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6991753056766598239",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6991753056766598239&engine=google_scholar&hl=en",
+    "cites_id":
+    "6991753056766598239"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Domain-agnostic contrastive representations for learning from label proportions",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:sJPMR1oEGYQC",
+    "citation_id":
+    "qYhRbJoAAAAJ:sJPMR1oEGYQC",
+    "authors":
+    "J Nandy, R Saket, P Jain, J Chauhan, B Ravindran, A Raghuveer",
+    "publication":
+    "Proceedings of the 31st ACM International Conference on Information …, 2022",
+    "cited_by":
+    {
+    "value":
+    4,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14183718142856885955",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=14183718142856885955&engine=google_scholar&hl=en",
+    "cites_id":
+    "14183718142856885955"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Learning an invertible output mapping can mitigate simplicity bias in neural networks",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Og1tA8FjbJAC",
+    "citation_id":
+    "qYhRbJoAAAAJ:Og1tA8FjbJAC",
+    "authors":
+    "S Addepalli, A Nasery, RV Babu, P Netrapalli, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2210.01360, 2022",
+    "cited_by":
+    {
+    "value":
+    4,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13637864485758281951",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13637864485758281951&engine=google_scholar&hl=en",
+    "cites_id":
+    "13637864485758281951"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Feature reconstruction from outputs can mitigate simplicity bias in neural networks",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:KS-xo-ZNxMsC",
+    "citation_id":
+    "qYhRbJoAAAAJ:KS-xo-ZNxMsC",
+    "authors":
+    "S Addepalli, A Nasery, VB Radhakrishnan, P Netrapalli, P Jain",
+    "publication":
+    "The Eleventh International Conference on Learning Representations, 2022",
+    "cited_by":
+    {
+    "value":
+    2,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16870699336871184067",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=16870699336871184067&engine=google_scholar&hl=en",
+    "cites_id":
+    "16870699336871184067"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Private and Efficient Meta-Learning with Low Rank and Sparse decomposition",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:AZju0d2GQJ0C",
+    "citation_id":
+    "qYhRbJoAAAAJ:AZju0d2GQJ0C",
+    "authors":
+    "S Pal, P Varshney, G Madan, AG Thakurta, G Aggarwal, P Shenoy, ...",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Online low rank matrix completion",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:naSTrk-c4S8C",
+    "citation_id":
+    "qYhRbJoAAAAJ:naSTrk-c4S8C",
+    "authors":
+    "P Jain, S Pal",
+    "publication":
+    "arXiv preprint arXiv:2209.03997, 2022",
+    "cited_by":
+    {
+    "value":
+    6,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9270810389960565051",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=9270810389960565051&engine=google_scholar&hl=en",
+    "cites_id":
+    "9270810389960565051"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:ijdKiLOsEJMC",
+    "citation_id":
+    "qYhRbJoAAAAJ:ijdKiLOsEJMC",
+    "authors":
+    "A Nasery, S Addepalli, P Netrapalli, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2208.09139, 2022",
+    "cited_by":
+    {
+    "value":
+    1,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10834225966469227777",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=10834225966469227777&engine=google_scholar&hl=en",
+    "cites_id":
+    "10834225966469227777"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Treeformer: Dense gradient trees for efficient attention computation",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:OzeSX8-yOCQC",
+    "citation_id":
+    "qYhRbJoAAAAJ:OzeSX8-yOCQC",
+    "authors":
+    "L Madaan, S Bhojanapalli, H Jain, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2208.09015, 2022",
+    "cited_by":
+    {
+    "value":
+    6,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2987643376523538794",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=2987643376523538794&engine=google_scholar&hl=en",
+    "cites_id":
+    "2987643376523538794"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "DAFT: Distilling Adversarially Fine-tuned teachers for OOD Robustness",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:c59VksA5Vz4C",
+    "citation_id":
+    "qYhRbJoAAAAJ:c59VksA5Vz4C",
+    "authors":
+    "A Nasery, S Addepalli, P Netrapalli, P Jain",
+    "publication":
+    "ICML 2022: Workshop on Spurious Correlations, Invariance and Stability, 2022",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "(Nearly) Optimal Private Linear Regression via Adaptive Clipping",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:s85pQhAUCrAC",
+    "citation_id":
+    "qYhRbJoAAAAJ:s85pQhAUCrAC",
+    "authors":
+    "P Varshney, A Thakurta, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2207.04686, 2022",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "(Nearly) Optimal Private Linear Regression for Sub-Gaussian Data via Adaptive Clipping",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:LK8CI43ZvvMC",
+    "citation_id":
+    "qYhRbJoAAAAJ:LK8CI43ZvvMC",
+    "authors":
+    "P Varshney, A Thakurta, P Jain",
+    "publication":
+    "Conference on Learning Theory, 1126-1166, 2022",
+    "cited_by":
+    {
+    "value":
+    1,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4113798036277088045",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=4113798036277088045&engine=google_scholar&hl=en",
+    "cites_id":
+    "4113798036277088045"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Met: Masked encoding for tabular data",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:nPT8s1NX_-sC",
+    "citation_id":
+    "qYhRbJoAAAAJ:nPT8s1NX_-sC",
+    "authors":
+    "K Majmundar, S Goyal, P Netrapalli, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2206.08564, 2022",
+    "cited_by":
+    {
+    "value":
+    22,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2939433742922379007",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=2939433742922379007&engine=google_scholar&hl=en",
+    "cites_id":
+    "2939433742922379007"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Robust training in high dimensions via block coordinate geometric median descent",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:SGW5VrABaM0C",
+    "citation_id":
+    "qYhRbJoAAAAJ:SGW5VrABaM0C",
+    "authors":
+    "A Acharya, A Hashemi, P Jain, S Sanghavi, IS Dhillon, U Topcu",
+    "publication":
+    "International Conference on Artificial Intelligence and Statistics, 11145-11168, 2022",
+    "cited_by":
+    {
+    "value":
+    23,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4867031682711093930",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=4867031682711093930&engine=google_scholar&hl=en",
+    "cites_id":
+    "4867031682711093930"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Multivariate Time Series Forecasting",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:9NZAP19TdFAC",
+    "citation_id":
+    "qYhRbJoAAAAJ:9NZAP19TdFAC",
+    "authors":
+    "S Suhas, A Suggala, P Jain, P Nethrapalli",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Matryoshka representations for adaptive deployment",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:hGdtkIFZdKAC",
+    "citation_id":
+    "qYhRbJoAAAAJ:hGdtkIFZdKAC",
+    "authors":
+    "A Kusupati, G Bhatt, A Rege, M Wallingford, A Sinha, V Ramanujan, ...",
+    "publication":
+    "arXiv preprint arXiv:2205.13147 3, 2022",
+    "cited_by":
+    {
+    "value":
+    5,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12322374040774319354",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=12322374040774319354&engine=google_scholar&hl=en",
+    "cites_id":
+    "12322374040774319354"
+    },
+    "year":
+    "2022"
+    },
+    {
+    "title":
+    "Syntactic profiling of alphanumeric strings",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:artPoR2Yc-kC",
+    "citation_id":
+    "qYhRbJoAAAAJ:artPoR2Yc-kC",
+    "authors":
+    "S Gulwani, P Jain, DA Perelman, S Padhi, O Polozov",
+    "publication":
+    "US Patent 11,210,327, 2021",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Differentially private model personalization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:jmjb1lOE9QIC",
+    "citation_id":
+    "qYhRbJoAAAAJ:jmjb1lOE9QIC",
+    "authors":
+    "A Smith, P Jain, K Rush, S Song, AG Thakurta",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Streaming linear system identification with reverse experience replay",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:27LrP4qxOz0C",
+    "citation_id":
+    "qYhRbJoAAAAJ:27LrP4qxOz0C",
+    "authors":
+    "S Kowshik, D Nagaraj, P Jain, P Netrapalli",
+    "publication":
+    "Advances in Neural Information Processing Systems 34, 30140-30152, 2021",
+    "cited_by":
+    {
+    "value":
+    17,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1908643955255783965",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=1908643955255783965&engine=google_scholar&hl=en",
+    "cites_id":
+    "1908643955255783965"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Statistically and computationally efficient linear meta-representation learning",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:wvYxNZNCP7wC",
+    "citation_id":
+    "qYhRbJoAAAAJ:wvYxNZNCP7wC",
+    "authors":
+    "KK Thekumparampil, P Jain, P Netrapalli, S Oh",
+    "publication":
+    "Advances in Neural Information Processing Systems 34, 18487-18500, 2021",
+    "cited_by":
+    {
+    "value":
+    10,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13911758199227597769",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13911758199227597769&engine=google_scholar&hl=en",
+    "cites_id":
+    "13911758199227597769"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Differentially private model personalization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:HJSXoJQnj-YC",
+    "citation_id":
+    "qYhRbJoAAAAJ:HJSXoJQnj-YC",
+    "authors":
+    "P Jain, J Rush, A Smith, S Song, A Guha Thakurta",
+    "publication":
+    "Advances in neural information processing systems 34, 29723-29735, 2021",
+    "cited_by":
+    {
+    "value":
+    29,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11962032193267867869",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=11962032193267867869&engine=google_scholar&hl=en",
+    "cites_id":
+    "11962032193267867869"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Llc: Accurate, multi-purpose learnt low-dimensional binary codes",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:An6A6Jpfc1oC",
+    "citation_id":
+    "qYhRbJoAAAAJ:An6A6Jpfc1oC",
+    "authors":
+    "A Kusupati, M Wallingford, V Ramanujan, R Somani, JS Park, K Pillutla, ...",
+    "publication":
+    "Advances in neural information processing systems 34, 23900-23913, 2021",
+    "cited_by":
+    {
+    "value":
+    11,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13039200529155817900",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13039200529155817900&engine=google_scholar&hl=en",
+    "cites_id":
+    "13039200529155817900"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Near-optimal offline and streaming algorithms for learning non-linear dynamical systems",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:EPG8bYD4jVwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:EPG8bYD4jVwC",
+    "authors":
+    "S Kowshik, D Nagaraj, P Jain, P Netrapalli",
+    "publication":
+    "Advances in Neural Information Processing Systems 34, 8518-8531, 2021",
+    "cited_by":
+    {
+    "value":
+    28,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13244721977576557492",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13244721977576557492&engine=google_scholar&hl=en",
+    "cites_id":
+    "13244721977576557492"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Do input gradients highlight discriminative features?",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:pAkWuXOU-OoC",
+    "citation_id":
+    "qYhRbJoAAAAJ:pAkWuXOU-OoC",
+    "authors":
+    "H Shah, P Jain, P Netrapalli",
+    "publication":
+    "Advances in Neural Information Processing Systems 34, 2046-2059, 2021",
+    "cited_by":
+    {
+    "value":
+    58,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11330786422400793960",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=11330786422400793960&engine=google_scholar&hl=en",
+    "cites_id":
+    "11330786422400793960"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Node-level differentially private graph neural networks",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:isU91gLudPYC",
+    "citation_id":
+    "qYhRbJoAAAAJ:isU91gLudPYC",
+    "authors":
+    "A Daigavane, G Madan, A Sinha, AG Thakurta, G Aggarwal, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2111.15521, 2021",
+    "cited_by":
+    {
+    "value":
+    38,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10231790179534332853",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=10231790179534332853&engine=google_scholar&hl=en",
+    "cites_id":
+    "10231790179534332853"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Message recommendation system",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:VN7nJs4JPk0C",
+    "citation_id":
+    "qYhRbJoAAAAJ:VN7nJs4JPk0C",
+    "authors":
+    "L Menon, A Budhiraja, G Hiranandani, P Jain, DA Shah, A Choure, ...",
+    "publication":
+    "US Patent 11,184,301, 2021",
+    "cited_by":
+    {
+    "value":
+    8,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13155492188496754860",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13155492188496754860&engine=google_scholar&hl=en",
+    "cites_id":
+    "13155492188496754860"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Online target q-learning with reverse experience replay: Efficiently finding the optimal policy for linear mdps",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Xz60mAmATU4C",
+    "citation_id":
+    "qYhRbJoAAAAJ:Xz60mAmATU4C",
+    "authors":
+    "N Agarwal, S Chaudhuri, P Jain, D Nagaraj, P Netrapalli",
+    "publication":
+    "arXiv preprint arXiv:2110.08440, 2021",
+    "cited_by":
+    {
+    "value":
+    23,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18284937111633047201",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=18284937111633047201&engine=google_scholar&hl=en",
+    "cites_id":
+    "18284937111633047201"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Iglu: Efficient GCN training via lazy updates",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:QsaTk4IG4EwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:QsaTk4IG4EwC",
+    "authors":
+    "SD Narayanan, A Sinha, P Jain, P Kar, S Sellamanickam",
+    "publication":
+    "arXiv preprint arXiv:2109.13995, 2021",
+    "cited_by":
+    {
+    "value":
+    8,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16548699335588161367",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=16548699335588161367&engine=google_scholar&hl=en",
+    "cites_id":
+    "16548699335588161367"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Neural-guided deductive search for program synthesis",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:5MTHONV0fEkC",
+    "citation_id":
+    "qYhRbJoAAAAJ:5MTHONV0fEkC",
+    "authors":
+    "O Polozov, S Gulwani, P Jain, AK Vijayakumar, A Mohta",
+    "publication":
+    "US Patent 11,132,180, 2021",
+    "cited_by":
+    {
+    "value":
+    10,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4605447326647694226",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=4605447326647694226&engine=google_scholar&hl=en",
+    "cites_id":
+    "4605447326647694226"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Private alternating least squares: Practical private matrix completion with tighter rates",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:69ZgNCALVd0C",
+    "citation_id":
+    "qYhRbJoAAAAJ:69ZgNCALVd0C",
+    "authors":
+    "S Chien, P Jain, W Krichene, S Rendle, S Song, A Thakurta, L Zhang",
+    "publication":
+    "International Conference on Machine Learning, 1877-1887, 2021",
+    "cited_by":
+    {
+    "value":
+    22,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15172906152119984586",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=15172906152119984586&engine=google_scholar&hl=en",
+    "cites_id":
+    "15172906152119984586"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Optimal regret algorithm for pseudo-1d bandit convex optimization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:KNjnJ3z-R6IC",
+    "citation_id":
+    "qYhRbJoAAAAJ:KNjnJ3z-R6IC",
+    "authors":
+    "A Saha, N Natarajan, P Netrapalli, P Jain",
+    "publication":
+    "International Conference on Machine Learning, 9255-9264, 2021",
+    "cited_by":
+    {
+    "value":
+    7,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8077993119229741751",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=8077993119229741751&engine=google_scholar&hl=en",
+    "cites_id":
+    "8077993119229741751"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Sample efficient linear meta-learning by alternating minimization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:5bg8sr1QxYwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:5bg8sr1QxYwC",
+    "authors":
+    "KK Thekumparampil, P Jain, P Netrapalli, S Oh",
+    "publication":
+    "arXiv preprint arXiv:2105.08306, 2021",
+    "cited_by":
+    {
+    "value":
+    12,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=133308962255917166",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=133308962255917166&engine=google_scholar&hl=en",
+    "cites_id":
+    "133308962255917166"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Sample Efficient Linear Meta-Learning by Alternating Minimization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:BrOSOlqYqPUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:BrOSOlqYqPUC",
+    "authors":
+    "K Koshy Thekumparampil, P Jain, P Netrapalli, S Oh",
+    "publication":
+    "arXiv e-prints, arXiv: 2105.08306, 2021",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Streaming linear system identification with reverse experience replay",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:-nhnvRiOwuoC",
+    "citation_id":
+    "qYhRbJoAAAAJ:-nhnvRiOwuoC",
+    "authors":
+    "P Jain, SS Kowshik, D Nagaraj, P Netrapalli",
+    "publication":
+    "arXiv preprint arXiv:2103.05896, 2021",
+    "cited_by":
+    {
+    "value":
+    7,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14261913351685807939",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=14261913351685807939&engine=google_scholar&hl=en",
+    "cites_id":
+    "14261913351685807939"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Learning accurate decision trees with bandit feedback via quantized gradient descent",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:uVUOdF_882EC",
+    "citation_id":
+    "qYhRbJoAAAAJ:uVUOdF_882EC",
+    "authors":
+    "A Karthikeyan, N Jain, N Natarajan, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2102.07567, 2021",
+    "cited_by":
+    {
+    "value":
+    11,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3696744630184214249",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=3696744630184214249&engine=google_scholar&hl=en",
+    "cites_id":
+    "3696744630184214249"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Making the last iterate of sgd information theoretically optimal",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:natZJ_-F0IUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:natZJ_-F0IUC",
+    "authors":
+    "P Jain, DM Nagaraj, P Netrapalli",
+    "publication":
+    "SIAM Journal on Optimization 31 (2), 1108-1130, 2021",
+    "cited_by":
+    {
+    "value":
+    17,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17804181748849386284",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=17804181748849386284&engine=google_scholar&hl=en",
+    "cites_id":
+    "17804181748849386284"
+    },
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Near-optimal Offline and Streaming Algorithms for Learning Non-Linear Dynamical Systems",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:-6RzNnnwWf8C",
+    "citation_id":
+    "qYhRbJoAAAAJ:-6RzNnnwWf8C",
+    "authors":
+    "D Nagaraj, P Netrapalli, P Jain, S Kowshik",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Streaming Linear System Identification with Reverse Experience Replay",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:T_ojBgVMvoEC",
+    "citation_id":
+    "qYhRbJoAAAAJ:T_ojBgVMvoEC",
+    "authors":
+    "D Nagaraj, P Netrapalli, P Jain, S Kowshik",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Differentially Private Model Personalization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:SAZ1SQo2q1kC",
+    "citation_id":
+    "qYhRbJoAAAAJ:SAZ1SQo2q1kC",
+    "authors":
+    "AG Thakurta, A Smith, K Rush, P Jain, S Song",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Sample Efficient Linear Meta-Learning",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:D_tqNUsBuKoC",
+    "citation_id":
+    "qYhRbJoAAAAJ:D_tqNUsBuKoC",
+    "authors":
+    "KK Thekumparampil, P Netrapalli, P Jain, S Oh",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Private Alternating Least Squares:(Nearly) OptimalPrivacy/Utility Trade-off for Matrix Completion",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:zGdJYJv2LkUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:zGdJYJv2LkUC",
+    "authors":
+    "AG Thakurta, L Zhang, P Jain, S Song, S Rendle, W Krichene",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2021"
+    },
+    {
+    "title":
+    "Optimization and Analysis of the pAp@ k Metric for Recommender Systems",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:-7ulzOJl1JYC",
+    "citation_id":
+    "qYhRbJoAAAAJ:-7ulzOJl1JYC",
+    "authors":
+    "G Hiranandani, W Vijitbenjaronk, S Koyejo, P Jain",
+    "publication":
+    "International Conference on Machine Learning, 4260-4270, 2020",
+    "cited_by":
+    {
+    "value":
+    7,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=602725686886849398",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=602725686886849398&engine=google_scholar&hl=en",
+    "cites_id":
+    "602725686886849398"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "DROCC: Deep robust one-class classification",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:nRpfm8aw39MC",
+    "citation_id":
+    "qYhRbJoAAAAJ:nRpfm8aw39MC",
+    "authors":
+    "S Goyal, A Raghunathan, M Jain, HV Simhadri, P Jain",
+    "publication":
+    "International conference on machine learning, 3711-3721, 2020",
+    "cited_by":
+    {
+    "value":
+    163,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3986505951359290998",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=3986505951359290998&engine=google_scholar&hl=en",
+    "cites_id":
+    "3986505951359290998"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Soft threshold weight reparameterization for learnable sparsity",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:kVjdVfd2voEC",
+    "citation_id":
+    "qYhRbJoAAAAJ:kVjdVfd2voEC",
+    "authors":
+    "A Kusupati, V Ramanujan, R Somani, M Wortsman, P Jain, S Kakade, ...",
+    "publication":
+    "International Conference on Machine Learning, 5544-5555, 2020",
+    "cited_by":
+    {
+    "value":
+    195,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6875882562671228073",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6875882562671228073&engine=google_scholar&hl=en",
+    "cites_id":
+    "6875882562671228073"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "OASIS: ILP-guided synthesis of loop invariants",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:CaZNVDsoPx4C",
+    "citation_id":
+    "qYhRbJoAAAAJ:CaZNVDsoPx4C",
+    "authors":
+    "S Bhatia, S Padhi, N Natarajan, R Sharma, P Jain",
+    "publication":
+    "NeurIPS 2020 Workshop on Computer-Assisted Programming, 2020",
+    "cited_by":
+    {
+    "value":
+    3,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5225754610456320411",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=5225754610456320411&engine=google_scholar&hl=en",
+    "cites_id":
+    "5225754610456320411"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Projection Efficient Subgradient Method and Optimal Nonsmooth Frank-Wolfe Method",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:LPtt_HFRSbwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:LPtt_HFRSbwC",
+    "authors":
+    "K Koshy Thekumparampil, P Jain, P Netrapalli, S Oh",
+    "publication":
+    "arXiv e-prints, arXiv: 2010.01848, 2020",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Nonconvex Optimization for Signal Processing and Machine Learning [From the Guest Editors]",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Ehil0879vHcC",
+    "citation_id":
+    "qYhRbJoAAAAJ:Ehil0879vHcC",
+    "authors":
+    "AMC So, P Jain, WK Ma, G Scutari",
+    "publication":
+    "IEEE Signal Processing Magazine 37 (5), 15-17, 2020",
+    "cited_by":
+    {
+    "value":
+    9,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=936517625619856973",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=936517625619856973&engine=google_scholar&hl=en",
+    "cites_id":
+    "936517625619856973"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Programming by rewards",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:CB2v5VPnA5kC",
+    "citation_id":
+    "qYhRbJoAAAAJ:CB2v5VPnA5kC",
+    "authors":
+    "N Natarajan, A Karthikeyan, P Jain, I Radicek, S Rajamani, S Gulwani, ...",
+    "publication":
+    "arXiv preprint arXiv:2007.06835, 2020",
+    "cited_by":
+    {
+    "value":
+    3,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17065433784550443984",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=17065433784550443984&engine=google_scholar&hl=en",
+    "cites_id":
+    "17065433784550443984"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Globally-convergent iteratively reweighted least squares for robust regression problems",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:LhH-TYMQEocC",
+    "citation_id":
+    "qYhRbJoAAAAJ:LhH-TYMQEocC",
+    "authors":
+    "B Mukhoty, G Gopakumar, P Jain, P Kar",
+    "publication":
+    "arXiv preprint arXiv:2006.14211, 2020",
+    "cited_by":
+    {
+    "value":
+    28,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=857158729456419195",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=857158729456419195&engine=google_scholar&hl=en",
+    "cites_id":
+    "857158729456419195"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "A topic-aligned multilingual corpus of Wikipedia articles for studying information asymmetry in low resource languages",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:MhiOAD_qIWkC",
+    "citation_id":
+    "qYhRbJoAAAAJ:MhiOAD_qIWkC",
+    "authors":
+    "D Roy, S Bhatia, P Jain",
+    "publication":
+    "Proceedings of the Twelfth Language Resources and Evaluation Conference …, 2020",
+    "cited_by":
+    {
+    "value":
+    13,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13673867385404196670",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13673867385404196670&engine=google_scholar&hl=en",
+    "cites_id":
+    "13673867385404196670"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "COVID-19: strategies for allocation of test kits",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:IaI1MmNe2tcC",
+    "citation_id":
+    "qYhRbJoAAAAJ:IaI1MmNe2tcC",
+    "authors":
+    "A Biswas, S Bannur, P Jain, S Merugu",
+    "publication":
+    "arXiv preprint arXiv:2004.01740, 2020",
+    "cited_by":
+    {
+    "value":
+    4,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8847280964422208182",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=8847280964422208182&engine=google_scholar&hl=en",
+    "cites_id":
+    "8847280964422208182"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Homomorphic factorization encryption",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:_axFR9aDTf0C",
+    "citation_id":
+    "qYhRbJoAAAAJ:_axFR9aDTf0C",
+    "authors":
+    "P Jain, R Venkatesan, J Lee, K Gupta",
+    "publication":
+    "US Patent 10,554,390, 2020",
+    "cited_by":
+    {
+    "value":
+    18,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=504263883208657840",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=504263883208657840&engine=google_scholar&hl=en",
+    "cites_id":
+    "504263883208657840"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Rich-Item Recommendations for Rich-Users: Exploiting Dynamic and Static Side Information",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:NDuN12AVoxsC",
+    "citation_id":
+    "qYhRbJoAAAAJ:NDuN12AVoxsC",
+    "authors":
+    "A Budhiraja, G Hiranandani, D Chhatbar, A Sinha, N Yarrabelly, A Choure, ...",
+    "publication":
+    "arXiv preprint arXiv:2001.10495, 2020",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Optimal nonsmooth Frank-Wolfe method for stochastic regret minimization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:jE2MZjpN3IcC",
+    "citation_id":
+    "qYhRbJoAAAAJ:jE2MZjpN3IcC",
+    "authors":
+    "KK Thekumparampil, P Jain, P Netrapalli, S Oh",
+    "publication":
+    "12th OPT Workshop on Optimization for Machine Learning (OPT2020), 2020",
+    "cited_by":
+    {
+    "value":
+    1,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14498205123303382935",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=14498205123303382935&engine=google_scholar&hl=en",
+    "cites_id":
+    "14498205123303382935"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Projection efficient subgradient method and optimal nonsmooth frank-wolfe method",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:3NQIlFlcGxIC",
+    "citation_id":
+    "qYhRbJoAAAAJ:3NQIlFlcGxIC",
+    "authors":
+    "KK Thekumparampil, P Jain, P Netrapalli, S Oh",
+    "publication":
+    "Advances in Neural Information Processing Systems 33, 12211-12224, 2020",
+    "cited_by":
+    {
+    "value":
+    26,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14733495868114468807",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=14733495868114468807&engine=google_scholar&hl=en",
+    "cites_id":
+    "14733495868114468807"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Least squares regression with markovian data: Fundamental limits and algorithms",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:PYBJJbyH-FwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:PYBJJbyH-FwC",
+    "authors":
+    "D Nagaraj, X Wu, G Bresler, P Jain, P Netrapalli",
+    "publication":
+    "Advances in neural information processing systems 33, 16666-16676, 2020",
+    "cited_by":
+    {
+    "value":
+    55,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16910422466230936108",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=16910422466230936108&engine=google_scholar&hl=en",
+    "cites_id":
+    "16910422466230936108"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "The pitfalls of simplicity bias in neural networks",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:WC23djZS0W4C",
+    "citation_id":
+    "qYhRbJoAAAAJ:WC23djZS0W4C",
+    "authors":
+    "H Shah, K Tamuly, A Raghunathan, P Jain, P Netrapalli",
+    "publication":
+    "Advances in Neural Information Processing Systems 33, 9573-9585, 2020",
+    "cited_by":
+    {
+    "value":
+    316,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13128598861891549872",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13128598861891549872&engine=google_scholar&hl=en",
+    "cites_id":
+    "13128598861891549872"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "RNNPool: Efficient non-linear pooling for RAM constrained inference",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:MpfHP-DdYjUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:MpfHP-DdYjUC",
+    "authors":
+    "O Saha, A Kusupati, HV Simhadri, M Varma, P Jain",
+    "publication":
+    "Advances in Neural Information Processing Systems 33, 20473-20484, 2020",
+    "cited_by":
+    {
+    "value":
+    54,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9340951550254223370",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=9340951550254223370&engine=google_scholar&hl=en",
+    "cites_id":
+    "9340951550254223370"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Rich-item recommendations for rich-users via gcnn: Exploiting dynamic and static side information",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:BzfGm06jWhQC",
+    "citation_id":
+    "qYhRbJoAAAAJ:BzfGm06jWhQC",
+    "authors":
+    "A Budhiraja, G Hiranandani, N Yarrabelly, A Choure, O Koyejo, P Jain",
+    "publication":
+    "arXiv preprint arXiv:2001.10495, 2020",
+    "cited_by":
+    {
+    "value":
+    4,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6706550175366707566",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6706550175366707566&engine=google_scholar&hl=en",
+    "cites_id":
+    "6706550175366707566"
+    },
+    "year":
+    "2020"
+    },
+    {
+    "title":
+    "Shallow RNNs: A method for accurate time-series classification on tiny devices",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:MAUkC_7iAq8C",
+    "citation_id":
+    "qYhRbJoAAAAJ:MAUkC_7iAq8C",
+    "authors":
+    "DK Dennis, DAE Acar, V Mandikal, VS Sadasivan, HV Simhadri, ...",
+    "publication":
+    "Proceedings of the 33rd International Conference on Neural Information …, 2019",
+    "cited_by":
+    {
+    "value":
+    15,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18441677415241659339",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=18441677415241659339&engine=google_scholar&hl=en",
+    "cites_id":
+    "18441677415241659339"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "On Scaling Data-Driven Loop Invariant Inference",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:sszUF3NjhM4C",
+    "citation_id":
+    "qYhRbJoAAAAJ:sszUF3NjhM4C",
+    "authors":
+    "S Bhatia, S Padhi, N Natarajan, R Sharma, P Jain",
+    "publication":
+    "arXiv preprint arXiv:1911.11728, 2019",
+    "cited_by":
+    {
+    "value":
+    1,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13643175129356536429",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=13643175129356536429&engine=google_scholar&hl=en",
+    "cites_id":
+    "13643175129356536429"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Homomorphic data analysis",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:rmuvC79q63oC",
+    "citation_id":
+    "qYhRbJoAAAAJ:rmuvC79q63oC",
+    "authors":
+    "P Jain, R Venkatesan, J Lee, K Gupta",
+    "publication":
+    "US Patent 10,491,373, 2019",
+    "cited_by":
+    {
+    "value":
+    40,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082313546233717300",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=6082313546233717300&engine=google_scholar&hl=en",
+    "cites_id":
+    "6082313546233717300"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Gesturepod: Enabling on-device gesture-based interaction for white cane users",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:vDZJ-YLwNdEC",
+    "citation_id":
+    "qYhRbJoAAAAJ:vDZJ-YLwNdEC",
+    "authors":
+    "SG Patil, DK Dennis, C Pabbaraju, N Shaheer, HV Simhadri, V Seshadri, ...",
+    "publication":
+    "Proceedings of the 32nd Annual ACM symposium on User Interface Software and …, 2019",
+    "cited_by":
+    {
+    "value":
+    25,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14127786875665968849",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=14127786875665968849&engine=google_scholar&hl=en",
+    "cites_id":
+    "14127786875665968849"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Syntactic profiling of alphanumeric strings",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:kh2fBNsKQNwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:kh2fBNsKQNwC",
+    "authors":
+    "S Gulwani, P Jain, DA Perelman, S Padhi, O Polozov",
+    "publication":
+    "US Patent 10,394,874, 2019",
+    "cited_by":
+    {
+    "value":
+    6,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3543133324879159827",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=3543133324879159827&engine=google_scholar&hl=en",
+    "cites_id":
+    "3543133324879159827"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Distributional semantics meets multi-label learning",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:OcBU2YAGkTUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:OcBU2YAGkTUC",
+    "authors":
+    "V Gupta, R Wadbude, N Natarajan, H Karnick, P Jain, P Rai",
+    "publication":
+    "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 3747-3754, 2019",
+    "cited_by":
+    {
+    "value":
+    27,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12561987979046110895",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=12561987979046110895&engine=google_scholar&hl=en",
+    "cites_id":
+    "12561987979046110895"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Learning functions over sets via permutation adversarial networks",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Aul-kAQHnToC",
+    "citation_id":
+    "qYhRbJoAAAAJ:Aul-kAQHnToC",
+    "authors":
+    "C Pabbaraju, P Jain",
+    "publication":
+    "arXiv preprint arXiv:1907.05638, 2019",
+    "cited_by":
+    {
+    "value":
+    8,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15007630510686435832",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=15007630510686435832&engine=google_scholar&hl=en",
+    "cites_id":
+    "15007630510686435832"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Efficient Algorithms for Smooth Minimax Optimization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:ubry08Y2EpUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:ubry08Y2EpUC",
+    "authors":
+    "K Koshy Thekumparampil, P Jain, P Netrapalli, S Oh",
+    "publication":
+    "arXiv e-prints, arXiv: 1907.01543, 2019",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Open Problem: Do Good Algorithms Necessarily Query Bad Points?",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:8xutWZnSdmoC",
+    "citation_id":
+    "qYhRbJoAAAAJ:8xutWZnSdmoC",
+    "authors":
+    "R Ge, P Jain, SM Kakade, R Kidambi, DM Nagaraj, P Netrapalli",
+    "publication":
+    "Conference on Learning Theory, 3190-3193, 2019",
+    "cited_by":
+    {
+    "value":
+    3,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17092906299246778031",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=17092906299246778031&engine=google_scholar&hl=en",
+    "cites_id":
+    "17092906299246778031"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Making the last iterate of sgd information theoretically optimal",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:a3BOlSfXSfwC",
+    "citation_id":
+    "qYhRbJoAAAAJ:a3BOlSfXSfwC",
+    "authors":
+    "P Jain, D Nagaraj, P Netrapalli",
+    "publication":
+    "Conference on Learning Theory, 1752-1755, 2019",
+    "cited_by":
+    {
+    "value":
+    76,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10617271965493307895",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=10617271965493307895&engine=google_scholar&hl=en",
+    "cites_id":
+    "10617271965493307895"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Adaptive hard thresholding for near-optimal consistent robust regression",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:yMeIxYmEMEAC",
+    "citation_id":
+    "qYhRbJoAAAAJ:yMeIxYmEMEAC",
+    "authors":
+    "AS Suggala, K Bhatia, P Ravikumar, P Jain",
+    "publication":
+    "Conference on Learning Theory, 2892-2897, 2019",
+    "cited_by":
+    {
+    "value":
+    48,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16018464081862288971",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=16018464081862288971&engine=google_scholar&hl=en",
+    "cites_id":
+    "16018464081862288971"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Gradient Methods for Non-convex Optimization",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:OP4eGU-M3BUC",
+    "citation_id":
+    "qYhRbJoAAAAJ:OP4eGU-M3BUC",
+    "authors":
+    "P Jain",
+    "publication":
+    "Journal of the Indian Institute of Science 99, 247-256, 2019",
+    "cited_by":
+    {
+    "value":
+    1,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782577768496781972",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=2782577768496781972&engine=google_scholar&hl=en",
+    "cites_id":
+    "2782577768496781972"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Sgd without replacement: Sharper rates for general smooth convex functions",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:F9fV5C73w3QC",
+    "citation_id":
+    "qYhRbJoAAAAJ:F9fV5C73w3QC",
+    "authors":
+    "D Nagaraj, P Jain, P Netrapalli",
+    "publication":
+    "International Conference on Machine Learning, 4703-4711, 2019",
+    "cited_by":
+    {
+    "value":
+    70,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10242898150506844810",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=10242898150506844810&engine=google_scholar&hl=en",
+    "cites_id":
+    "10242898150506844810"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Universality Patterns in the Training of Neural Networks",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:P7Ujq4OLJYoC",
+    "citation_id":
+    "qYhRbJoAAAAJ:P7Ujq4OLJYoC",
+    "authors":
+    "R Somani, N Goyal, P Jain, P Netrapalli",
+    "cited_by":
+    {
+    "value":
+    0},
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Cost aware inference for iot devices",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:yqoGN6RLRZoC",
+    "citation_id":
+    "qYhRbJoAAAAJ:yqoGN6RLRZoC",
+    "authors":
+    "P Zhu, DAE Acar, N Feng, P Jain, V Saligrama",
+    "publication":
+    "The 22nd International Conference on Artificial Intelligence and Statistics …, 2019",
+    "cited_by":
+    {
+    "value":
+    15,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1586560739869096374",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=1586560739869096374&engine=google_scholar&hl=en",
+    "cites_id":
+    "1586560739869096374"
+    },
+    "year":
+    "2019"
+    },
+    {
+    "title":
+    "Learning Natural Programs from a Few Examples in Real-Time.",
+    "link":
+    "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:r_AWSJRzSzQC",
+    "citation_id":
+    "qYhRbJoAAAAJ:r_AWSJRzSzQC",
+    "authors":
+    "N Natarajan, D Simmons, N Datha, P Jain, S Gulwani",
+    "publication":
+    "AISTATS, 1714-1722, 2019",
+    "cited_by":
+    {
+    "value":
+    11,
+    "link":
+    "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=586082130447240070",
+    "serpapi_link":
+    "https://serpapi.com/search.json?cites=586082130447240070&engine=google_scholar&hl=en",
+    "cites_id":
+    "586082130447240070"
+    },
+    "year":
+    "2019"
+    },
+    {
+        "title":
+        "Sgd without replacement: Sharper rates for general smooth convex functions",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:OR75R8vi5nAC",
+        "citation_id":
+        "qYhRbJoAAAAJ:OR75R8vi5nAC",
+        "authors":
+        "P Jain, D Nagaraj, P Netrapalli",
+        "publication":
+        "arXiv preprint arXiv:1903.01463, 2019",
+        "cited_by":
+        {
+        "value":
+        10,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16269875978254151141",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=16269875978254151141&engine=google_scholar&hl=en",
+        "cites_id":
+        "16269875978254151141"
+        },
+        "year":
+        "2019"
+        },
+        {
+        "title":
+        "Provable non-linear inductive matrix completion",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:4xDN1ZYqzskC",
+        "citation_id":
+        "qYhRbJoAAAAJ:4xDN1ZYqzskC",
+        "authors":
+        "K Zhong, Z Song, P Jain, IS Dhillon",
+        "publication":
+        "Advances in Neural Information Processing Systems 32, 2019",
+        "cited_by":
+        {
+        "value":
+        21,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1189555238462440895",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=1189555238462440895&engine=google_scholar&hl=en",
+        "cites_id":
+        "1189555238462440895"
+        },
+        "year":
+        "2019"
+        },
+        {
+        "title":
+        "Shallow rnn: accurate time-series classification on resource constrained devices",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:gVv57TyPmFsC",
+        "citation_id":
+        "qYhRbJoAAAAJ:gVv57TyPmFsC",
+        "authors":
+        "D Dennis, DAE Acar, V Mandikal, VS Sadasivan, V Saligrama, ...",
+        "publication":
+        "Advances in neural information processing systems 32, 2019",
+        "cited_by":
+        {
+        "value":
+        29,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11173930297005977654",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=11173930297005977654&engine=google_scholar&hl=en",
+        "cites_id":
+        "11173930297005977654"
+        },
+        "year":
+        "2019"
+        },
+        {
+        "title":
+        "Efficient algorithms for smooth minimax optimization",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:GFxP56DSvIMC",
+        "citation_id":
+        "qYhRbJoAAAAJ:GFxP56DSvIMC",
+        "authors":
+        "KK Thekumparampil, P Jain, P Netrapalli, S Oh",
+        "publication":
+        "Advances in Neural Information Processing Systems 32, 2019",
+        "cited_by":
+        {
+        "value":
+        197,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16329029546814043430",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=16329029546814043430&engine=google_scholar&hl=en",
+        "cites_id":
+        "16329029546814043430"
+        },
+        "year":
+        "2019"
+        },
+        {
+        "title":
+        "Support Recovery for Orthogonal Matching Pursuit",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:otzGkya1bYkC",
+        "citation_id":
+        "qYhRbJoAAAAJ:otzGkya1bYkC",
+        "authors":
+        "R Somani, C Gupta, P Jain, P Netrapalli",
+        "cited_by":
+        {
+        "value":
+        0},
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Resource-efficient machine learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:PVjk1bu6vJQC",
+        "citation_id":
+        "qYhRbJoAAAAJ:PVjk1bu6vJQC",
+        "authors":
+        "P Jain, C Gupta, AS Suggala, A Goyal, H Simhadri",
+        "publication":
+        "US Patent App. 15/623,661, 2018",
+        "cited_by":
+        {
+        "value":
+        8,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5774968668654410344",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=5774968668654410344&engine=google_scholar&hl=en",
+        "cites_id":
+        "5774968668654410344"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "FlashProfile: a framework for synthesizing data profiles",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:FPJr55Dyh1AC",
+        "citation_id":
+        "qYhRbJoAAAAJ:FPJr55Dyh1AC",
+        "authors":
+        "S Padhi, P Jain, D Perelman, O Polozov, S Gulwani, T Millstein",
+        "publication":
+        "Proceedings of the ACM on Programming Languages 2 (OOPSLA), 1-28, 2018",
+        "cited_by":
+        {
+        "value":
+        33,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16383314653156181665",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=16383314653156181665&engine=google_scholar&hl=en",
+        "cites_id":
+        "16383314653156181665"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Smoothed analysis for low-rank solutions to semidefinite programs in quadratic penalty form",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:vbGhcppDl1QC",
+        "citation_id":
+        "qYhRbJoAAAAJ:vbGhcppDl1QC",
+        "authors":
+        "S Bhojanapalli, N Boumal, P Jain, P Netrapalli",
+        "publication":
+        "Conference On Learning Theory, 3243-3270, 2018",
+        "cited_by":
+        {
+        "value":
+        43,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7649580264984070959",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7649580264984070959&engine=google_scholar&hl=en",
+        "cites_id":
+        "7649580264984070959"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Differentially private matrix completion revisited",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:zLWjf1WUPmwC",
+        "citation_id":
+        "qYhRbJoAAAAJ:zLWjf1WUPmwC",
+        "authors":
+        "P Jain, OD Thakkar, A Thakurta",
+        "publication":
+        "International Conference on Machine Learning, 2215-2224, 2018",
+        "cited_by":
+        {
+        "value":
+        42,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7598527399935632849",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7598527399935632849&engine=google_scholar&hl=en",
+        "cites_id":
+        "7598527399935632849"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Accelerating stochastic gradient descent for least squares regression",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:5awf1xo2G04C",
+        "citation_id":
+        "qYhRbJoAAAAJ:5awf1xo2G04C",
+        "authors":
+        "P Jain, SM Kakade, R Kidambi, P Netrapalli, A Sidford",
+        "publication":
+        "Conference On Learning Theory, 545-604, 2018",
+        "cited_by":
+        {
+        "value":
+        120,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6950970486728633539",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6950970486728633539&engine=google_scholar&hl=en",
+        "cites_id":
+        "6950970486728633539"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Nonlinear inductive matrix completion based on one-layer neural networks",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:WZBGuue-350C",
+        "citation_id":
+        "qYhRbJoAAAAJ:WZBGuue-350C",
+        "authors":
+        "K Zhong, Z Song, P Jain, IS Dhillon",
+        "publication":
+        "arXiv preprint arXiv:1805.10477, 2018",
+        "cited_by":
+        {
+        "value":
+        7,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9692544442305629908",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=9692544442305629908&engine=google_scholar&hl=en",
+        "cites_id":
+        "9692544442305629908"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Neural-guided deductive search for real-time program synthesis from examples",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:ILKRHgRFtOwC",
+        "citation_id":
+        "qYhRbJoAAAAJ:ILKRHgRFtOwC",
+        "authors":
+        "A Kalyan, A Mohta, O Polozov, D Batra, P Jain, S Gulwani",
+        "publication":
+        "arXiv preprint arXiv:1804.01186, 2018",
+        "cited_by":
+        {
+        "value":
+        180,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6666411294628297468",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6666411294628297468&engine=google_scholar&hl=en",
+        "cites_id":
+        "6666411294628297468"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "On the insufficiency of existing momentum schemes for stochastic optimization",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:p__nRnzSRKYC",
+        "citation_id":
+        "qYhRbJoAAAAJ:p__nRnzSRKYC",
+        "authors":
+        "R Kidambi, P Netrapalli, P Jain, S Kakade",
+        "publication":
+        "2018 Information Theory and Applications Workshop (ITA), 1-9, 2018",
+        "cited_by":
+        {
+        "value":
+        124,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6907311906014063619",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6907311906014063619&engine=google_scholar&hl=en",
+        "cites_id":
+        "6907311906014063619"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "GesturePod: Gesture-based Interaction Cane for People with Visual Impairments",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:4X0JR2_MtJMC",
+        "citation_id":
+        "qYhRbJoAAAAJ:4X0JR2_MtJMC",
+        "authors":
+        "DK Dennis, SG Patil, C Pabbaraju, N Shaheer, H Simhadri, V Seshadri, ...",
+        "publication":
+        "Technical Report MSR-TR-2018-14. Microsoft, 2018",
+        "cited_by":
+        {
+        "value":
+        3,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8183611533818899600",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8183611533818899600&engine=google_scholar&hl=en",
+        "cites_id":
+        "8183611533818899600"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Support recovery for orthogonal matching pursuit: upper and lower bounds",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:5qfkUJPXOUwC",
+        "citation_id":
+        "qYhRbJoAAAAJ:5qfkUJPXOUwC",
+        "authors":
+        "R Somani, C Gupta, P Jain, P Netrapalli",
+        "publication":
+        "Advances in Neural Information Processing Systems 31, 2018",
+        "cited_by":
+        {
+        "value":
+        7,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6088235144388534838",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6088235144388534838&engine=google_scholar&hl=en",
+        "cites_id":
+        "6088235144388534838"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Fastgrnn: A fast, accurate, stable and tiny kilobyte sized gated recurrent neural network",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:hCrLmN-GePgC",
+        "citation_id":
+        "qYhRbJoAAAAJ:hCrLmN-GePgC",
+        "authors":
+        "A Kusupati, M Singh, K Bhatia, A Kumar, P Jain, M Varma",
+        "publication":
+        "Advances in neural information processing systems 31, 2018",
+        "cited_by":
+        {
+        "value":
+        219,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14286601091173970187",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=14286601091173970187&engine=google_scholar&hl=en",
+        "cites_id":
+        "14286601091173970187"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Multiple instance learning for efficient sequential data classification on resource-constrained devices",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:ClCfbGk0d_YC",
+        "citation_id":
+        "qYhRbJoAAAAJ:ClCfbGk0d_YC",
+        "authors":
+        "D Dennis, C Pabbaraju, HV Simhadri, P Jain",
+        "publication":
+        "Advances in Neural Information Processing Systems 31, 2018",
+        "cited_by":
+        {
+        "value":
+        58,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1777978474704177693",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=1777978474704177693&engine=google_scholar&hl=en",
+        "cites_id":
+        "1777978474704177693"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Parallelizing stochastic gradient descent for least squares regression: mini-batching, averaging, and model misspecification",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:q3CdL3IzO_QC",
+        "citation_id":
+        "qYhRbJoAAAAJ:q3CdL3IzO_QC",
+        "authors":
+        "P Jain, SM Kakade, R Kidambi, P Netrapalli, A Sidford",
+        "publication":
+        "Journal of machine learning research 18 (223), 1-42, 2018",
+        "cited_by":
+        {
+        "value":
+        161,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7396029314659263776",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7396029314659263776&engine=google_scholar&hl=en",
+        "cites_id":
+        "7396029314659263776"
+        },
+        "year":
+        "2018"
+        },
+        {
+        "title":
+        "Non-convex optimization for machine learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:yB1At4FlUx8C",
+        "citation_id":
+        "qYhRbJoAAAAJ:yB1At4FlUx8C",
+        "authors":
+        "P Jain, P Kar",
+        "publication":
+        "Foundations and Trends® in Machine Learning 10 (3-4), 142-363, 2017",
+        "cited_by":
+        {
+        "value":
+        559,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5270557316974812398",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=5270557316974812398&engine=google_scholar&hl=en",
+        "cites_id":
+        "5270557316974812398"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "A markov chain theory approach to characterizing the minimax optimality of stochastic gradient descent (for least squares)",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:z_wVstp3MssC",
+        "citation_id":
+        "qYhRbJoAAAAJ:z_wVstp3MssC",
+        "authors":
+        "P Jain, SM Kakade, R Kidambi, P Netrapalli, VK Pillutla, A Sidford",
+        "publication":
+        "arXiv preprint arXiv:1710.09430, 2017",
+        "cited_by":
+        {
+        "value":
+        39,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2896003485374942147",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=2896003485374942147&engine=google_scholar&hl=en",
+        "cites_id":
+        "2896003485374942147"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Leveraging distributional semantics for multi-label learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Ug5p-4gJ2f0C",
+        "citation_id":
+        "qYhRbJoAAAAJ:Ug5p-4gJ2f0C",
+        "authors":
+        "R Wadbude, V Gupta, P Rai, N Natarajan, H Karnick, P Jain",
+        "publication":
+        "arXiv preprint arXiv:1709.05976, 2017",
+        "cited_by":
+        {
+        "value":
+        1,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6331290772956995026",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6331290772956995026&engine=google_scholar&hl=en",
+        "cites_id":
+        "6331290772956995026"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Active heteroscedastic regression",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:tzM49s52ZIMC",
+        "citation_id":
+        "qYhRbJoAAAAJ:tzM49s52ZIMC",
+        "authors":
+        "K Chaudhuri, P Jain, N Natarajan",
+        "publication":
+        "International Conference on Machine Learning, 694-702, 2017",
+        "cited_by":
+        {
+        "value":
+        19,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15260894680089258133",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=15260894680089258133&engine=google_scholar&hl=en",
+        "cites_id":
+        "15260894680089258133"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Protonn: Compressed and accurate knn for resource-scarce devices",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:_Ybze24A_UAC",
+        "citation_id":
+        "qYhRbJoAAAAJ:_Ybze24A_UAC",
+        "authors":
+        "C Gupta, AS Suggala, A Goyal, HV Simhadri, B Paranjape, A Kumar, ...",
+        "publication":
+        "International conference on machine learning, 1331-1340, 2017",
+        "cited_by":
+        {
+        "value":
+        197,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3616267009123779187",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=3616267009123779187&engine=google_scholar&hl=en",
+        "cites_id":
+        "3616267009123779187"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Recovery guarantees for one-hidden-layer neural networks",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:N5tVd3kTz84C",
+        "citation_id":
+        "qYhRbJoAAAAJ:N5tVd3kTz84C",
+        "authors":
+        "K Zhong, Z Song, P Jain, PL Bartlett, IS Dhillon",
+        "publication":
+        "International conference on machine learning, 4140-4149, 2017",
+        "cited_by":
+        {
+        "value":
+        350,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11965390343759936388",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=11965390343759936388&engine=google_scholar&hl=en",
+        "cites_id":
+        "11965390343759936388"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Nearly optimal robust matrix completion",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:vRqMK49ujn8C",
+        "citation_id":
+        "qYhRbJoAAAAJ:vRqMK49ujn8C",
+        "authors":
+        "Y Cherapanamjeri, K Gupta, P Jain",
+        "publication":
+        "International Conference on Machine Learning, 797-805, 2017",
+        "cited_by":
+        {
+        "value":
+        109,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17633026662909116183",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=17633026662909116183&engine=google_scholar&hl=en",
+        "cites_id":
+        "17633026662909116183"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Thresholding based outlier robust PCA",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:JoZmwDi-zQgC",
+        "citation_id":
+        "qYhRbJoAAAAJ:JoZmwDi-zQgC",
+        "authors":
+        "Y Cherapanamjeri, P Jain, P Netrapalli",
+        "publication":
+        "Conference on Learning Theory, 593-628, 2017",
+        "cited_by":
+        {
+        "value":
+        41,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8986175696382521849",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8986175696382521849&engine=google_scholar&hl=en",
+        "cites_id":
+        "8986175696382521849"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Fast second-order cone programming for safe mission planning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:sSrBHYA8nusC",
+        "citation_id":
+        "qYhRbJoAAAAJ:sSrBHYA8nusC",
+        "authors":
+        "K Zhong, P Jain, A Kapoor",
+        "publication":
+        "2017 IEEE International Conference on Robotics and Automation (ICRA), 79-86, 2017",
+        "cited_by":
+        {
+        "value":
+        8,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6434252319347093067",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6434252319347093067&engine=google_scholar&hl=en",
+        "cites_id":
+        "6434252319347093067"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Global convergence of non-convex gradient descent for computing matrix squareroot",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:eq2jaN3J8jMC",
+        "citation_id":
+        "qYhRbJoAAAAJ:eq2jaN3J8jMC",
+        "authors":
+        "P Jain, C Jin, S Kakade, P Netrapalli",
+        "publication":
+        "Artificial Intelligence and Statistics, 479-488, 2017",
+        "cited_by":
+        {
+        "value":
+        29,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8185542775129340205",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8185542775129340205&engine=google_scholar&hl=en",
+        "cites_id":
+        "8185542775129340205"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Accelerating stochastic gradient descent",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:cBPnxVikjH8C",
+        "citation_id":
+        "qYhRbJoAAAAJ:cBPnxVikjH8C",
+        "authors":
+        "P Jain, SM Kakade, R Kidambi, P Netrapalli, A Sidford",
+        "publication":
+        "arXiv preprint arXiv:1704.08227 3, 8, 2017",
+        "cited_by":
+        {
+        "value":
+        54,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15772383141264539771",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=15772383141264539771&engine=google_scholar&hl=en",
+        "cites_id":
+        "15772383141264539771"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Partial hard thresholding",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:SdhP9T11ey4C",
+        "citation_id":
+        "qYhRbJoAAAAJ:SdhP9T11ey4C",
+        "authors":
+        "P Jain, A Tewari, IS Dhillon",
+        "publication":
+        "IEEE Transactions on Information Theory 63 (5), 3029-3038, 2017",
+        "cited_by":
+        {
+        "value":
+        18,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4597929900256150104",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=4597929900256150104&engine=google_scholar&hl=en",
+        "cites_id":
+        "4597929900256150104"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Scalable optimization of multivariate performance measures in multi-instance multi-label learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:wbdj-CoPYUoC",
+        "citation_id":
+        "qYhRbJoAAAAJ:wbdj-CoPYUoC",
+        "authors":
+        "A Aggarwal, S Ghoshal, A Shetty, S Sinha, G Ramakrishnan, P Kar, P Jain",
+        "publication":
+        "Proceedings of the AAAI Conference on Artificial Intelligence 31 (1), 2017",
+        "cited_by":
+        {
+        "value":
+        7,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10852816154868386051",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=10852816154868386051&engine=google_scholar&hl=en",
+        "cites_id":
+        "10852816154868386051"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Consistent robust regression",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:t7zJ5fGR-2UC",
+        "citation_id":
+        "qYhRbJoAAAAJ:t7zJ5fGR-2UC",
+        "authors":
+        "K Bhatia, P Jain, P Kamalaruban, P Kar",
+        "publication":
+        "Advances in Neural Information Processing Systems 30, 2017",
+        "cited_by":
+        {
+        "value":
+        110,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10847239951647720465",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=10847239951647720465&engine=google_scholar&hl=en",
+        "cites_id":
+        "10847239951647720465"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Programming by examples: PL meets ML",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:j8SEvjWlNXcC",
+        "citation_id":
+        "qYhRbJoAAAAJ:j8SEvjWlNXcC",
+        "authors":
+        "S Gulwani, P Jain",
+        "publication":
+        "Programming Languages and Systems: 15th Asian Symposium, APLAS 2017, Suzhou …, 2017",
+        "cited_by":
+        {
+        "value":
+        49,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17179379065311846309",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=17179379065311846309&engine=google_scholar&hl=en",
+        "cites_id":
+        "17179379065311846309"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "FlashProfile: Interactive Synthesis of Syntactic Profiles.",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:-_dYPAW6P2MC",
+        "citation_id":
+        "qYhRbJoAAAAJ:-_dYPAW6P2MC",
+        "authors":
+        "S Padhi, P Jain, D Perelman, O Polozov, S Gulwani, TD Millstein",
+        "publication":
+        "CoRR, 2017",
+        "cited_by":
+        {
+        "value":
+        7,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5996731617937514627",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=5996731617937514627&engine=google_scholar&hl=en",
+        "cites_id":
+        "5996731617937514627"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Learning mixture of gaussians with streaming data",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:_Re3VWB3Y0AC",
+        "citation_id":
+        "qYhRbJoAAAAJ:_Re3VWB3Y0AC",
+        "authors":
+        "A Raghunathan, P Jain, R Krishnawamy",
+        "publication":
+        "Advances in Neural Information Processing Systems 30, 2017",
+        "cited_by":
+        {
+        "value":
+        10,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12182463806593109139",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=12182463806593109139&engine=google_scholar&hl=en",
+        "cites_id":
+        "12182463806593109139"
+        },
+        "year":
+        "2017"
+        },
+        {
+        "title":
+        "Matrix Completion with Implicit Clustering",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:HE397vMXCloC",
+        "citation_id":
+        "qYhRbJoAAAAJ:HE397vMXCloC",
+        "authors":
+        "P Kar, D Kundu, P Jain",
+        "cited_by":
+        {
+        "value":
+        0},
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Parallelizing stochastic approximation through mini-batching and tail-averaging",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:fQNAKQ3IYiAC",
+        "citation_id":
+        "qYhRbJoAAAAJ:fQNAKQ3IYiAC",
+        "authors":
+        "P Jain, SM Kakade, R Kidambi, P Netrapalli, A Sidford",
+        "publication":
+        "arXiv preprint arXiv:1610.03774, 2016",
+        "cited_by":
+        {
+        "value":
+        44,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7001329582740345969",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7001329582740345969&engine=google_scholar&hl=en",
+        "cites_id":
+        "7001329582740345969"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Efficient and consistent robust time series analysis",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:tS2w5q8j5-wC",
+        "citation_id":
+        "qYhRbJoAAAAJ:tS2w5q8j5-wC",
+        "authors":
+        "K Bhatia, P Jain, P Kamalaruban, P Kar",
+        "publication":
+        "arXiv preprint arXiv:1607.00146, 2016",
+        "cited_by":
+        {
+        "value":
+        4,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5290382651189811376",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=5290382651189811376&engine=google_scholar&hl=en",
+        "cites_id":
+        "5290382651189811376"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Regret Bounds for Non-decomposable Metrics with Missing Labels",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:WbkHhVStYXYC",
+        "citation_id":
+        "qYhRbJoAAAAJ:WbkHhVStYXYC",
+        "authors":
+        "P Jain, N Natarajan",
+        "publication":
+        "arXiv preprint arXiv:1606.02077, 2016",
+        "cited_by":
+        {
+        "value":
+        1,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12949805305397467994",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=12949805305397467994&engine=google_scholar&hl=en",
+        "cites_id":
+        "12949805305397467994"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Streaming pca: Matching matrix bernstein and near-optimal finite sample guarantees for oja’s algorithm",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:XiSMed-E-HIC",
+        "citation_id":
+        "qYhRbJoAAAAJ:XiSMed-E-HIC",
+        "authors":
+        "P Jain, C Jin, SM Kakade, P Netrapalli, A Sidford",
+        "publication":
+        "Conference on learning theory, 1147-1164, 2016",
+        "cited_by":
+        {
+        "value":
+        136,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14100386427123413647",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=14100386427123413647&engine=google_scholar&hl=en",
+        "cites_id":
+        "14100386427123413647"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Diverse yet efficient retrieval using locality sensitive hashing",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:NhqRSupF_l8C",
+        "citation_id":
+        "qYhRbJoAAAAJ:NhqRSupF_l8C",
+        "authors":
+        "V Rao, P Jain, CV Jawahar",
+        "publication":
+        "Proceedings of the 2016 ACM on International Conference on Multimedia …, 2016",
+        "cited_by":
+        {
+        "value":
+        6,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17616933085568920256",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=17616933085568920256&engine=google_scholar&hl=en",
+        "cites_id":
+        "17616933085568920256"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Tensor vs. matrix methods: Robust tensor decomposition under block sparse perturbations",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:CHSYGLWDkRkC",
+        "citation_id":
+        "qYhRbJoAAAAJ:CHSYGLWDkRkC",
+        "authors":
+        "A Anandkumar, P Jain, Y Shi, UN Niranjan",
+        "publication":
+        "Artificial Intelligence and Statistics, 268-276, 2016",
+        "cited_by":
+        {
+        "value":
+        100,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3563893784957687588",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=3563893784957687588&engine=google_scholar&hl=en",
+        "cites_id":
+        "3563893784957687588"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Matching matrix bernstein with little memory: Near-optimal finite sample guarantees for oja’s algorithm",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:uWQEDVKXjbEC",
+        "citation_id":
+        "qYhRbJoAAAAJ:uWQEDVKXjbEC",
+        "authors":
+        "P Jain, C Jin, SM Kakade, P Netrapalli, A Sidford",
+        "publication":
+        "arXiv preprint arXiv:1602.06929, 2016",
+        "cited_by":
+        {
+        "value":
+        11,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4988045600135533796",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=4988045600135533796&engine=google_scholar&hl=en",
+        "cites_id":
+        "4988045600135533796"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Learning sparsely used overcomplete dictionaries via alternating minimization",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:GtLg2Ama23sC",
+        "citation_id":
+        "qYhRbJoAAAAJ:GtLg2Ama23sC",
+        "authors":
+        "A Agarwal, A Anandkumar, P Jain, P Netrapalli",
+        "publication":
+        "SIAM Journal on Optimization 26 (4), 2775-2799, 2016",
+        "cited_by":
+        {
+        "value":
+        192,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4464833803707382985",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=4464833803707382985&engine=google_scholar&hl=en",
+        "cites_id":
+        "4464833803707382985"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Mixed linear regression with multiple components",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:1qzjygNMrQYC",
+        "citation_id":
+        "qYhRbJoAAAAJ:1qzjygNMrQYC",
+        "authors":
+        "K Zhong, P Jain, IS Dhillon",
+        "publication":
+        "Advances in neural information processing systems 29, 2016",
+        "cited_by":
+        {
+        "value":
+        71,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3849089410556271746",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=3849089410556271746&engine=google_scholar&hl=en",
+        "cites_id":
+        "3849089410556271746"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Regret bounds for non-decomposable metrics with missing labels",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:mvPsJ3kp5DgC",
+        "citation_id":
+        "qYhRbJoAAAAJ:mvPsJ3kp5DgC",
+        "authors":
+        "N Natarajan, P Jain",
+        "publication":
+        "Advances in Neural Information Processing Systems 29, 2016",
+        "cited_by":
+        {
+        "value":
+        4,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13782556489438131261",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=13782556489438131261&engine=google_scholar&hl=en",
+        "cites_id":
+        "13782556489438131261"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Selective inference for group-sparse linear models",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:4fKUyHm3Qg0C",
+        "citation_id":
+        "qYhRbJoAAAAJ:4fKUyHm3Qg0C",
+        "authors":
+        "F Yang, R Foygel Barber, P Jain, J Lafferty",
+        "publication":
+        "Advances in neural information processing systems 29, 2016",
+        "cited_by":
+        {
+        "value":
+        66,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11825085994225068761",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=11825085994225068761&engine=google_scholar&hl=en",
+        "cites_id":
+        "11825085994225068761"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Structured sparse regression via greedy hard thresholding",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:UxriW0iASnsC",
+        "citation_id":
+        "qYhRbJoAAAAJ:UxriW0iASnsC",
+        "authors":
+        "P Jain, N Rao, IS Dhillon",
+        "publication":
+        "Advances in neural information processing systems 29, 2016",
+        "cited_by":
+        {
+        "value":
+        42,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8830384887763721968",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8830384887763721968&engine=google_scholar&hl=en",
+        "cites_id":
+        "8830384887763721968"
+        },
+        "year":
+        "2016"
+        },
+        {
+        "title":
+        "Locally non-linear embeddings for extreme multi-label learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:f2IySw72cVMC",
+        "citation_id":
+        "qYhRbJoAAAAJ:f2IySw72cVMC",
+        "authors":
+        "K Bhatia, H Jain, P Kar, P Jain, M Varma",
+        "publication":
+        "arXiv preprint arXiv:1507.02743, 2015",
+        "cited_by":
+        {
+        "value":
+        7,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5514387871791426273",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=5514387871791426273&engine=google_scholar&hl=en",
+        "cites_id":
+        "5514387871791426273"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Computing matrix squareroot via non convex local search",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:b0M2c_1WBrUC",
+        "citation_id":
+        "qYhRbJoAAAAJ:b0M2c_1WBrUC",
+        "authors":
+        "P Jain, C Jin, SM Kakade, P Netrapalli",
+        "publication":
+        "arXiv preprint arXiv:1507.05854, 2015",
+        "cited_by":
+        {
+        "value":
+        29,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14845549136870879283",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=14845549136870879283&engine=google_scholar&hl=en",
+        "cites_id":
+        "14845549136870879283"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Fast exact matrix completion with finite samples",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:70eg2SAEIzsC",
+        "citation_id":
+        "qYhRbJoAAAAJ:70eg2SAEIzsC",
+        "authors":
+        "P Jain, P Netrapalli",
+        "publication":
+        "Conference on Learning Theory, 1007-1034, 2015",
+        "cited_by":
+        {
+        "value":
+        107,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12965700661944587234",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=12965700661944587234&engine=google_scholar&hl=en",
+        "cites_id":
+        "12965700661944587234"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Surrogate functions for maximizing precision at the top",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:fPk4N6BV_jEC",
+        "citation_id":
+        "qYhRbJoAAAAJ:fPk4N6BV_jEC",
+        "authors":
+        "P Kar, H Narasimhan, P Jain",
+        "publication":
+        "International Conference on Machine Learning, 189-198, 2015",
+        "cited_by":
+        {
+        "value":
+        47,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14805076092166553217",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=14805076092166553217&engine=google_scholar&hl=en",
+        "cites_id":
+        "14805076092166553217"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Optimizing non-decomposable performance measures: A tale of two classes",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:u_35RYKgDlwC",
+        "citation_id":
+        "qYhRbJoAAAAJ:u_35RYKgDlwC",
+        "authors":
+        "H Narasimhan, P Kar, P Jain",
+        "publication":
+        "International Conference on Machine Learning, 199-208, 2015",
+        "cited_by":
+        {
+        "value":
+        59,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11916793243780571403",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=11916793243780571403&engine=google_scholar&hl=en",
+        "cites_id":
+        "11916793243780571403"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "To drop or not to drop: Robustness, consistency and differential privacy properties of dropout",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:rO6llkc54NcC",
+        "citation_id":
+        "qYhRbJoAAAAJ:rO6llkc54NcC",
+        "authors":
+        "P Jain, V Kulkarni, A Thakurta, O Williams",
+        "publication":
+        "arXiv preprint arXiv:1503.02031, 2015",
+        "cited_by":
+        {
+        "value":
+        33,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6634801761345514256",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6634801761345514256&engine=google_scholar&hl=en",
+        "cites_id":
+        "6634801761345514256"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Tensor vs Matrix Methods: Robust Tensor Decomposition under Block Sparse",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:KTwcwpFFj4wC",
+        "citation_id":
+        "qYhRbJoAAAAJ:KTwcwpFFj4wC",
+        "authors":
+        "A Anandkumar, P Jain, Y Shi",
+        "cited_by":
+        {
+        "value":
+        0},
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Alternating minimization for regression problems with vector-valued outputs",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:nb7KW1ujOQ8C",
+        "citation_id":
+        "qYhRbJoAAAAJ:nb7KW1ujOQ8C",
+        "authors":
+        "P Jain, A Tewari",
+        "publication":
+        "Advances in Neural Information Processing Systems 28, 2015",
+        "cited_by":
+        {
+        "value":
+        18,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1446790888712954281",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=1446790888712954281&engine=google_scholar&hl=en",
+        "cites_id":
+        "1446790888712954281"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Sparse local embeddings for extreme multi-label classification",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:P5F9QuxV20EC",
+        "citation_id":
+        "qYhRbJoAAAAJ:P5F9QuxV20EC",
+        "authors":
+        "K Bhatia, H Jain, P Kar, M Varma, P Jain",
+        "publication":
+        "Advances in neural information processing systems 28, 2015",
+        "cited_by":
+        {
+        "value":
+        522,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8638863549992326608",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8638863549992326608&engine=google_scholar&hl=en",
+        "cites_id":
+        "8638863549992326608"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Predtron: a family of online algorithms for general prediction problems",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:1sJd4Hv_s6UC",
+        "citation_id":
+        "qYhRbJoAAAAJ:1sJd4Hv_s6UC",
+        "authors":
+        "P Jain, N Natarajan, A Tewari",
+        "publication":
+        "Advances in Neural Information Processing Systems 28, 2015",
+        "cited_by":
+        {
+        "value":
+        3,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7905340287175044466",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7905340287175044466&engine=google_scholar&hl=en",
+        "cites_id":
+        "7905340287175044466"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Efficient matrix sensing using rank-1 gaussian measurements",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:xtRiw3GOFMkC",
+        "citation_id":
+        "qYhRbJoAAAAJ:xtRiw3GOFMkC",
+        "authors":
+        "K Zhong, P Jain, IS Dhillon",
+        "publication":
+        "Algorithmic Learning Theory: 26th International Conference, ALT 2015, Banff …, 2015",
+        "cited_by":
+        {
+        "value":
+        76,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8932241616590621158",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8932241616590621158&engine=google_scholar&hl=en",
+        "cites_id":
+        "8932241616590621158"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Robust regression via hard thresholding",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:4OULZ7Gr8RgC",
+        "citation_id":
+        "qYhRbJoAAAAJ:4OULZ7Gr8RgC",
+        "authors":
+        "K Bhatia, P Jain, P Kar",
+        "publication":
+        "Advances in neural information processing systems 28, 2015",
+        "cited_by":
+        {
+        "value":
+        182,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5723442051702179068",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=5723442051702179068&engine=google_scholar&hl=en",
+        "cites_id":
+        "5723442051702179068"
+        },
+        "year":
+        "2015"
+        },
+        {
+        "title":
+        "Tighter low-rank approximation via sampling the leveraged element",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:RGFaLdJalmkC",
+        "citation_id":
+        "qYhRbJoAAAAJ:RGFaLdJalmkC",
+        "authors":
+        "S Bhojanapalli, P Jain, S Sanghavi",
+        "publication":
+        "Proceedings of the twenty-sixth annual ACM-SIAM symposium on Discrete …, 2014",
+        "cited_by":
+        {
+        "value":
+        39,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3830852743896749303",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=3830852743896749303&engine=google_scholar&hl=en",
+        "cites_id":
+        "3830852743896749303"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Universal matrix completion",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:hMod-77fHWUC",
+        "citation_id":
+        "qYhRbJoAAAAJ:hMod-77fHWUC",
+        "authors":
+        "S Bhojanapalli, P Jain",
+        "publication":
+        "International Conference on Machine Learning, 1881-1889, 2014",
+        "cited_by":
+        {
+        "value":
+        121,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6441528321071104410",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6441528321071104410&engine=google_scholar&hl=en",
+        "cites_id":
+        "6441528321071104410"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Learning mixtures of discrete product distributions using spectral decompositions",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:isC4tDSrTZIC",
+        "citation_id":
+        "qYhRbJoAAAAJ:isC4tDSrTZIC",
+        "authors":
+        "P Jain, S Oh",
+        "publication":
+        "Conference on Learning Theory, 824-856, 2014",
+        "cited_by":
+        {
+        "value":
+        37,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12526047212273964398",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=12526047212273964398&engine=google_scholar&hl=en",
+        "cites_id":
+        "12526047212273964398"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Learning sparsely used overcomplete dictionaries",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:TFP_iSt0sucC",
+        "citation_id":
+        "qYhRbJoAAAAJ:TFP_iSt0sucC",
+        "authors":
+        "A Agarwal, A Anandkumar, P Jain, P Netrapalli, R Tandon",
+        "publication":
+        "Conference on Learning Theory, 123-137, 2014",
+        "cited_by":
+        {
+        "value":
+        123,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8347525336525722974",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8347525336525722974&engine=google_scholar&hl=en",
+        "cites_id":
+        "8347525336525722974"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Forecasting a number of impressions of a prospective advertisement listing",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:M05iB0D1s5AC",
+        "citation_id":
+        "qYhRbJoAAAAJ:M05iB0D1s5AC",
+        "authors":
+        "A Nath, S Mukherjee, P Jain, N Goyal, S Laxman",
+        "publication":
+        "US Patent App. 13/590,192, 2014",
+        "cited_by":
+        {
+        "value":
+        7,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13967853080922629384",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=13967853080922629384&engine=google_scholar&hl=en",
+        "cites_id":
+        "13967853080922629384"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "(Near) dimension independent risk bounds for differentially private learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:M3NEmzRMIkIC",
+        "citation_id":
+        "qYhRbJoAAAAJ:M3NEmzRMIkIC",
+        "authors":
+        "P Jain, AG Thakurta",
+        "publication":
+        "International Conference on Machine Learning, 476-484, 2014",
+        "cited_by":
+        {
+        "value":
+        23,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9083944043221948723",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=9083944043221948723&engine=google_scholar&hl=en",
+        "cites_id":
+        "9083944043221948723"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Large-scale multi-label learning with missing labels",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:bEWYMUwI8FkC",
+        "citation_id":
+        "qYhRbJoAAAAJ:bEWYMUwI8FkC",
+        "authors":
+        "HF Yu, P Jain, P Kar, I Dhillon",
+        "publication":
+        "International conference on machine learning, 593-601, 2014",
+        "cited_by":
+        {
+        "value":
+        557,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12083805013376929245",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=12083805013376929245&engine=google_scholar&hl=en",
+        "cites_id":
+        "12083805013376929245"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Provable submodular minimization via Fujishige-Wolfe algorithm",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:KxtntwgDAa4C",
+        "citation_id":
+        "qYhRbJoAAAAJ:KxtntwgDAa4C",
+        "authors":
+        "D Chakrabarty, P Jain, P Kothari",
+        "publication":
+        "Adv. in Neu. Inf. Proc. Sys.(NIPS), 2014",
+        "cited_by":
+        {
+        "value":
+        4,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15885211002096972192",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=15885211002096972192&engine=google_scholar&hl=en",
+        "cites_id":
+        "15885211002096972192"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Provable submodular minimization using Wolfe's algorithm",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:35N4QoGY0k4C",
+        "citation_id":
+        "qYhRbJoAAAAJ:35N4QoGY0k4C",
+        "authors":
+        "D Chakrabarty, P Jain, P Kothari",
+        "publication":
+        "Advances in Neural Information Processing Systems 27, 2014",
+        "cited_by":
+        {
+        "value":
+        71,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8801113657366370556",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=8801113657366370556&engine=google_scholar&hl=en",
+        "cites_id":
+        "8801113657366370556"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Online and stochastic gradient methods for non-decomposable loss functions",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:lSLTfruPkqcC",
+        "citation_id":
+        "qYhRbJoAAAAJ:lSLTfruPkqcC",
+        "authors":
+        "P Kar, H Narasimhan, P Jain",
+        "publication":
+        "Advances in Neural Information Processing Systems 27, 2014",
+        "cited_by":
+        {
+        "value":
+        77,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17674546301808147089",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=17674546301808147089&engine=google_scholar&hl=en",
+        "cites_id":
+        "17674546301808147089"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Non-convex robust PCA",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:RYcK_YlVTxYC",
+        "citation_id":
+        "qYhRbJoAAAAJ:RYcK_YlVTxYC",
+        "authors":
+        "P Netrapalli, N UN, S Sanghavi, A Anandkumar, P Jain",
+        "publication":
+        "Advances in neural information processing systems 27, 2014",
+        "cited_by":
+        {
+        "value":
+        351,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1000060626587110539",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=1000060626587110539&engine=google_scholar&hl=en",
+        "cites_id":
+        "1000060626587110539"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "On iterative hard thresholding methods for high-dimensional m-estimation",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:J_g5lzvAfSwC",
+        "citation_id":
+        "qYhRbJoAAAAJ:J_g5lzvAfSwC",
+        "authors":
+        "P Jain, A Tewari, P Kar",
+        "publication":
+        "Advances in neural information processing systems 27, 2014",
+        "cited_by":
+        {
+        "value":
+        242,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6319562101543000843",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6319562101543000843&engine=google_scholar&hl=en",
+        "cites_id":
+        "6319562101543000843"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Provable tensor factorization with missing data",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:O3NaXMp0MMsC",
+        "citation_id":
+        "qYhRbJoAAAAJ:O3NaXMp0MMsC",
+        "authors":
+        "P Jain, S Oh",
+        "publication":
+        "Advances in Neural Information Processing Systems 27, 2014",
+        "cited_by":
+        {
+        "value":
+        230,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17455578242205864210",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=17455578242205864210&engine=google_scholar&hl=en",
+        "cites_id":
+        "17455578242205864210"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Streaming PCA with many missing entries",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:YFjsv_pBGBYC",
+        "citation_id":
+        "qYhRbJoAAAAJ:YFjsv_pBGBYC",
+        "authors":
+        "I Mitliagkas, C Caramanis, P Jain",
+        "publication":
+        "Preprint, 6, 2014",
+        "cited_by":
+        {
+        "value":
+        29,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18317945192924341085",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=18317945192924341085&engine=google_scholar&hl=en",
+        "cites_id":
+        "18317945192924341085"
+        },
+        "year":
+        "2014"
+        },
+        {
+        "title":
+        "Large-scale multi-label learning with missing labels",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:XvxMoLDsR5gC",
+        "citation_id":
+        "qYhRbJoAAAAJ:XvxMoLDsR5gC",
+        "authors":
+        "HF Yu, P Jain, P Kar, IS Dhillon",
+        "publication":
+        "arXiv preprint arXiv:1307.5101, 2013",
+        "cited_by":
+        {
+        "value":
+        27,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14504654195679581624",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=14504654195679581624&engine=google_scholar&hl=en",
+        "cites_id":
+        "14504654195679581624"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Provable inductive matrix completion",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:_Qo2XoVZTnwC",
+        "citation_id":
+        "qYhRbJoAAAAJ:_Qo2XoVZTnwC",
+        "authors":
+        "P Jain, IS Dhillon",
+        "publication":
+        "arXiv preprint arXiv:1306.0626, 2013",
+        "cited_by":
+        {
+        "value":
+        202,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16579608741972273133",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=16579608741972273133&engine=google_scholar&hl=en",
+        "cites_id":
+        "16579608741972273133"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Low-rank matrix completion using alternating minimization",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:L8Ckcad2t8MC",
+        "citation_id":
+        "qYhRbJoAAAAJ:L8Ckcad2t8MC",
+        "authors":
+        "P Jain, P Netrapalli, S Sanghavi",
+        "publication":
+        "Proceedings of the forty-fifth annual ACM symposium on Theory of computing …, 2013",
+        "cited_by":
+        {
+        "value":
+        1191,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=555201600899053999",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=555201600899053999&engine=google_scholar&hl=en",
+        "cites_id":
+        "555201600899053999"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "On the generalization ability of online learning algorithms for pairwise loss functions",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:PlWzFYVEG4EC",
+        "citation_id":
+        "qYhRbJoAAAAJ:PlWzFYVEG4EC",
+        "authors":
+        "P Kar, B Sriperumbudur, P Jain, H Karnick",
+        "publication":
+        "International Conference on Machine Learning, 441-449, 2013",
+        "cited_by":
+        {
+        "value":
+        84,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18372132787326079859",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=18372132787326079859&engine=google_scholar&hl=en",
+        "cites_id":
+        "18372132787326079859"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Differentially private learning with kernels",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:e5wmG9Sq2KIC",
+        "citation_id":
+        "qYhRbJoAAAAJ:e5wmG9Sq2KIC",
+        "authors":
+        "P Jain, A Thakurta",
+        "publication":
+        "International conference on machine learning, 118-126, 2013",
+        "cited_by":
+        {
+        "value":
+        118,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11528552776257937959",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=11528552776257937959&engine=google_scholar&hl=en",
+        "cites_id":
+        "11528552776257937959"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "One-bit compressed sensing: Provable support and vector recovery",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:R3hNpaxXUhUC",
+        "citation_id":
+        "qYhRbJoAAAAJ:R3hNpaxXUhUC",
+        "authors":
+        "S Gopi, P Netrapalli, P Jain, A Nori",
+        "publication":
+        "International Conference on Machine Learning, 154-162, 2013",
+        "cited_by":
+        {
+        "value":
+        96,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14703163870538680929",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=14703163870538680929&engine=google_scholar&hl=en",
+        "cites_id":
+        "14703163870538680929"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Ad impression forecasting for sponsored search",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:TQgYirikUcIC",
+        "citation_id":
+        "qYhRbJoAAAAJ:TQgYirikUcIC",
+        "authors":
+        "A Nath, S Mukherjee, P Jain, N Goyal, S Laxman",
+        "publication":
+        "Proceedings of the 22nd international conference on World Wide Web, 943-952, 2013",
+        "cited_by":
+        {
+        "value":
+        13,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4754412916463279598",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=4754412916463279598&engine=google_scholar&hl=en",
+        "cites_id":
+        "4754412916463279598"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Streaming, Memory-limited PCA",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:XiVPGOgt02cC",
+        "citation_id":
+        "qYhRbJoAAAAJ:XiVPGOgt02cC",
+        "authors":
+        "I Mitliagkas, C Caramanis, P Jain",
+        "publication":
+        "University of Texas at Austin, 2013",
+        "cited_by":
+        {
+        "value":
+        1,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7251458624043938521",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7251458624043938521&engine=google_scholar&hl=en",
+        "cites_id":
+        "7251458624043938521"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Electrophoretic deposition of nanocrystalline hydroxyapatite on Ti6Al4V/TiO2 substrate",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:gsN89kCJA0AC",
+        "citation_id":
+        "qYhRbJoAAAAJ:gsN89kCJA0AC",
+        "authors":
+        "P Jain, T Mandal, P Prakash, A Garg, K Balani",
+        "publication":
+        "Journal of Coatings Technology and Research 10, 263-275, 2013",
+        "cited_by":
+        {
+        "value":
+        16,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9810459083699317784",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=9810459083699317784&engine=google_scholar&hl=en",
+        "cites_id":
+        "9810459083699317784"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Memory limited, streaming PCA",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:r0BpntZqJG4C",
+        "citation_id":
+        "qYhRbJoAAAAJ:r0BpntZqJG4C",
+        "authors":
+        "I Mitliagkas, C Caramanis, P Jain",
+        "publication":
+        "Advances in neural information processing systems 26, 2013",
+        "cited_by":
+        {
+        "value":
+        190,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1039162689696663546",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=1039162689696663546&engine=google_scholar&hl=en",
+        "cites_id":
+        "1039162689696663546"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "Phase retrieval using alternating minimization",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:RHpTSmoSYBkC",
+        "citation_id":
+        "qYhRbJoAAAAJ:RHpTSmoSYBkC",
+        "authors":
+        "P Netrapalli, P Jain, S Sanghavi",
+        "publication":
+        "Advances in Neural Information Processing Systems 26, 2013",
+        "cited_by":
+        {
+        "value":
+        702,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12832444075198336260",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=12832444075198336260&engine=google_scholar&hl=en",
+        "cites_id":
+        "12832444075198336260"
+        },
+        "year":
+        "2013"
+        },
+        {
+        "title":
+        "The interplay between stability and regret in online learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:7PzlFSSx8tAC",
+        "citation_id":
+        "qYhRbJoAAAAJ:7PzlFSSx8tAC",
+        "authors":
+        "A Saha, P Jain, A Tewari",
+        "publication":
+        "arXiv preprint arXiv:1211.6158, 2012",
+        "cited_by":
+        {
+        "value":
+        16,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11005176061904273066",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=11005176061904273066&engine=google_scholar&hl=en",
+        "cites_id":
+        "11005176061904273066"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "Improved multiple sequence alignments using coupled pattern mining",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:JV2RwH3_ST0C",
+        "citation_id":
+        "qYhRbJoAAAAJ:JV2RwH3_ST0C",
+        "authors":
+        "KSMT Hossain, D Patnaik, S Laxman, P Jain, C Bailey-Kellogg, ...",
+        "publication":
+        "Proceedings of the ACM Conference on Bioinformatics, Computational Biology …, 2012",
+        "cited_by":
+        {
+        "value":
+        10,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7323744151071666672",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7323744151071666672&engine=google_scholar&hl=en",
+        "cites_id":
+        "7323744151071666672"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "Mirror descent based database privacy",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:MXK_kJrjxJIC",
+        "citation_id":
+        "qYhRbJoAAAAJ:MXK_kJrjxJIC",
+        "authors":
+        "P Jain, A Thakurta",
+        "publication":
+        "International Workshop on Approximation Algorithms for Combinatorial …, 2012",
+        "cited_by":
+        {
+        "value":
+        8,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3709127861572601288",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=3709127861572601288&engine=google_scholar&hl=en",
+        "cites_id":
+        "3709127861572601288"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "Generalization bounds for online learning algorithms with pairwise loss functions",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:HDshCWvjkbEC",
+        "citation_id":
+        "qYhRbJoAAAAJ:HDshCWvjkbEC",
+        "authors":
+        "Y Wang, R Khardon, D Pechyony, R Jones",
+        "publication":
+        "Conference on Learning Theory, 13.1-13.22, 2012",
+        "cited_by":
+        {
+        "value":
+        64,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6381688787383175764",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=6381688787383175764&engine=google_scholar&hl=en",
+        "cites_id":
+        "6381688787383175764"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "Differentially private online learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:5nxA0vEk-isC",
+        "citation_id":
+        "qYhRbJoAAAAJ:5nxA0vEk-isC",
+        "authors":
+        "P Jain, P Kothari, A Thakurta",
+        "publication":
+        "Conference on Learning Theory, 24.1-24.34, 2012",
+        "cited_by":
+        {
+        "value":
+        261,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12330796004705389353",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=12330796004705389353&engine=google_scholar&hl=en",
+        "cites_id":
+        "12330796004705389353"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "Metric and kernel learning using a linear transformation",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:roLk4NBRz8UC",
+        "citation_id":
+        "qYhRbJoAAAAJ:roLk4NBRz8UC",
+        "authors":
+        "P Jain, B Kulis, JV Davis, IS Dhillon",
+        "publication":
+        "The Journal of Machine Learning Research 13 (1), 519-547, 2012",
+        "cited_by":
+        {
+        "value":
+        228,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10828032910851682942",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=10828032910851682942&engine=google_scholar&hl=en",
+        "cites_id":
+        "10828032910851682942"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "Multilabel classification using bayesian compressed sensing",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:dhFuZR0502QC",
+        "citation_id":
+        "qYhRbJoAAAAJ:dhFuZR0502QC",
+        "authors":
+        "A Kapoor, R Viswanathan, P Jain",
+        "publication":
+        "Advances in neural information processing systems 25, 2012",
+        "cited_by":
+        {
+        "value":
+        152,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13270909989814549762",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=13270909989814549762&engine=google_scholar&hl=en",
+        "cites_id":
+        "13270909989814549762"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "Supervised learning with similarity functions",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:4DMP91E08xMC",
+        "citation_id":
+        "qYhRbJoAAAAJ:4DMP91E08xMC",
+        "authors":
+        "P Kar, P Jain",
+        "publication":
+        "Advances in neural information processing systems 25, 2012",
+        "cited_by":
+        {
+        "value":
+        24,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15626287845335150140",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=15626287845335150140&engine=google_scholar&hl=en",
+        "cites_id":
+        "15626287845335150140"
+        },
+        "year":
+        "2012"
+        },
+        {
+        "title":
+        "A learning framework for self-tuning histograms",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:4TOpqqG69KYC",
+        "citation_id":
+        "qYhRbJoAAAAJ:4TOpqqG69KYC",
+        "authors":
+        "R Viswanathan, P Jain, S Laxman, A Arasu",
+        "publication":
+        "arXiv preprint arXiv:1111.7295, 2011",
+        "cited_by":
+        {
+        "value":
+        10,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14068659299430269209",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=14068659299430269209&engine=google_scholar&hl=en",
+        "cites_id":
+        "14068659299430269209"
+        },
+        "year":
+        "2011"
+        },
+        {
+        "title":
+        "Similarity-based learning via data driven embeddings",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:LkGwnXOMwfcC",
+        "citation_id":
+        "qYhRbJoAAAAJ:LkGwnXOMwfcC",
+        "authors":
+        "P Kar, P Jain",
+        "publication":
+        "Advances in neural information processing systems 24, 2011",
+        "cited_by":
+        {
+        "value":
+        47,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5672856244261100771",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=5672856244261100771&engine=google_scholar&hl=en",
+        "cites_id":
+        "5672856244261100771"
+        },
+        "year":
+        "2011"
+        },
+        {
+        "title":
+        "Orthogonal matching pursuit with replacement",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:WF5omc3nYNoC",
+        "citation_id":
+        "qYhRbJoAAAAJ:WF5omc3nYNoC",
+        "authors":
+        "P Jain, A Tewari, I Dhillon",
+        "publication":
+        "Advances in neural information processing systems 24, 2011",
+        "cited_by":
+        {
+        "value":
+        92,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10656414016247669890",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=10656414016247669890&engine=google_scholar&hl=en",
+        "cites_id":
+        "10656414016247669890"
+        },
+        "year":
+        "2011"
+        },
+        {
+        "title":
+        "Far-sighted active learning on a budget for image and video recognition",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Tyk-4Ss8FVUC",
+        "citation_id":
+        "qYhRbJoAAAAJ:Tyk-4Ss8FVUC",
+        "authors":
+        "S Vijayanarasimhan, P Jain, K Grauman",
+        "publication":
+        "2010 IEEE Computer Society Conference on Computer Vision and Pattern …, 2010",
+        "cited_by":
+        {
+        "value":
+        109,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7944031762075318786",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=7944031762075318786&engine=google_scholar&hl=en",
+        "cites_id":
+        "7944031762075318786"
+        },
+        "year":
+        "2010"
+        },
+        {
+        "title":
+        "Hashing hyperplane queries to near points with applications to large-scale active learning",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:eQOLeE2rZwMC",
+        "citation_id":
+        "qYhRbJoAAAAJ:eQOLeE2rZwMC",
+        "authors":
+        "P Jain, S Vijayanarasimhan, K Grauman",
+        "publication":
+        "Advances in Neural Information Processing Systems 23, 2010",
+        "cited_by":
+        {
+        "value":
+        126,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16510374277732042930",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=16510374277732042930&engine=google_scholar&hl=en",
+        "cites_id":
+        "16510374277732042930"
+        },
+        "year":
+        "2010"
+        },
+        {
+        "title":
+        "Inductive regularized learning of kernel functions",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Y0pCki6q_DkC",
+        "citation_id":
+        "qYhRbJoAAAAJ:Y0pCki6q_DkC",
+        "authors":
+        "P Jain, B Kulis, I Dhillon",
+        "publication":
+        "Advances in neural information processing systems 23, 2010",
+        "cited_by":
+        {
+        "value":
+        54,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3886582026996685917",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=3886582026996685917&engine=google_scholar&hl=en",
+        "cites_id":
+        "3886582026996685917"
+        },
+        "year":
+        "2010"
+        },
+        {
+        "title":
+        "Guaranteed rank minimization via singular value projection",
+        "link":
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:d1gkVwhDpl0C",
+        "citation_id":
+        "qYhRbJoAAAAJ:d1gkVwhDpl0C",
+        "authors":
+        "P Jain, R Meka, I Dhillon",
+        "publication":
+        "Advances in Neural Information Processing Systems 23, 2010",
+        "cited_by":
+        {
+        "value":
+        562,
+        "link":
+        "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15866575613276957986",
+        "serpapi_link":
+        "https://serpapi.com/search.json?cites=15866575613276957986&engine=google_scholar&hl=en",
+        "cites_id":
+        "15866575613276957986"
+        },
+        "year":
+        "2010"
+        },
+            {
+            "title":
+            "Guaranteed rank minimization via singular value projection",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:lg2tdxc6qMwC",
+            "citation_id":
+            "qYhRbJoAAAAJ:lg2tdxc6qMwC",
+            "authors":
+            "R Meka, P Jain, IS Dhillon",
+            "publication":
+            "arXiv preprint arXiv:0909.5457, 2009",
+            "cited_by":
+            {
+            "value":
+            90,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17374177624945064168",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=17374177624945064168&engine=google_scholar&hl=en",
+            "cites_id":
+            "17374177624945064168"
+            },
+            "year":
+            "2009"
+            },
+            {
+            "title":
+            "Fast similarity search for learned metrics",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:UeHWp8X0CEIC",
+            "citation_id":
+            "qYhRbJoAAAAJ:UeHWp8X0CEIC",
+            "authors":
+            "B Kulis, P Jain, K Grauman",
+            "publication":
+            "IEEE Transactions on Pattern Analysis and Machine Intelligence 31 (12), 2143 …, 2009",
+            "cited_by":
+            {
+            "value":
+            320,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12598882026913662383,2516101341784566230",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=12598882026913662383%2C2516101341784566230&engine=google_scholar&hl=en",
+            "cites_id":
+            "12598882026913662383,2516101341784566230"
+            },
+            "year":
+            "2009"
+            },
+            {
+            "title":
+            "Active learning for large multi-class problems",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:qjMakFHDy7sC",
+            "citation_id":
+            "qYhRbJoAAAAJ:qjMakFHDy7sC",
+            "authors":
+            "P Jain, A Kapoor",
+            "publication":
+            "2009 IEEE Conference on Computer Vision and Pattern Recognition, 762-769, 2009",
+            "cited_by":
+            {
+            "value":
+            227,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4816872156908612235",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=4816872156908612235&engine=google_scholar&hl=en",
+            "cites_id":
+            "4816872156908612235"
+            },
+            "year":
+            "2009"
+            },
+            {
+            "title":
+            "Geometry-aware metric learning",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:W7OEmFMy1HYC",
+            "citation_id":
+            "qYhRbJoAAAAJ:W7OEmFMy1HYC",
+            "authors":
+            "Z Lu, P Jain, IS Dhillon",
+            "publication":
+            "Proceedings of the 26th annual international conference on machine learning …, 2009",
+            "cited_by":
+            {
+            "value":
+            34,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13306703517271000702",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=13306703517271000702&engine=google_scholar&hl=en",
+            "cites_id":
+            "13306703517271000702"
+            },
+            "year":
+            "2009"
+            },
+            {
+            "title":
+            "Large scale optimization methods for metric and kernel learning",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:2P1L_qKh6hAC",
+            "citation_id":
+            "qYhRbJoAAAAJ:2P1L_qKh6hAC",
+            "authors":
+            "P Jain",
+            "cited_by":
+            {
+            "value":
+            1,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13427765556041101908",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=13427765556041101908&engine=google_scholar&hl=en",
+            "cites_id":
+            "13427765556041101908"
+            },
+            "year":
+            "2009"
+            },
+            {
+            "title":
+            "Matrix completion from power-law distributed samples",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:YsMSGLbcyi4C",
+            "citation_id":
+            "qYhRbJoAAAAJ:YsMSGLbcyi4C",
+            "authors":
+            "R Meka, P Jain, I Dhillon",
+            "publication":
+            "Advances in neural information processing systems 22, 2009",
+            "cited_by":
+            {
+            "value":
+            69,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15298903695353596527",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=15298903695353596527&engine=google_scholar&hl=en",
+            "cites_id":
+            "15298903695353596527"
+            },
+            "year":
+            "2009"
+            },
+            {
+            "title":
+            "Simultaneous unsupervised learning of disparate clusterings",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:2osOgNQ5qMEC",
+            "citation_id":
+            "qYhRbJoAAAAJ:2osOgNQ5qMEC",
+            "authors":
+            "P Jain, R Meka, IS Dhillon",
+            "publication":
+            "Statistical Analysis and Data Mining: The ASA Data Science Journal 1 (3 …, 2008",
+            "cited_by":
+            {
+            "value":
+            128,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16570681298189103951",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=16570681298189103951&engine=google_scholar&hl=en",
+            "cites_id":
+            "16570681298189103951"
+            },
+            "year":
+            "2008"
+            },
+            {
+            "title":
+            "Rank minimization via online learning",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:zYLM7Y9cAGgC",
+            "citation_id":
+            "qYhRbJoAAAAJ:zYLM7Y9cAGgC",
+            "authors":
+            "R Meka, P Jain, C Caramanis, IS Dhillon",
+            "publication":
+            "Proceedings of the 25th International Conference on Machine learning, 656-663, 2008",
+            "cited_by":
+            {
+            "value":
+            79,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16567713053761600171",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=16567713053761600171&engine=google_scholar&hl=en",
+            "cites_id":
+            "16567713053761600171"
+            },
+            "year":
+            "2008"
+            },
+            {
+            "title":
+            "Fast image search for learned metrics",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:u-x6o8ySG0sC",
+            "citation_id":
+            "qYhRbJoAAAAJ:u-x6o8ySG0sC",
+            "authors":
+            "P Jain, B Kulis, K Grauman",
+            "publication":
+            "2008 IEEE Conference on computer vision and pattern recognition, 1-8, 2008",
+            "cited_by":
+            {
+            "value":
+            355,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15490248661761011933",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=15490248661761011933&engine=google_scholar&hl=en",
+            "cites_id":
+            "15490248661761011933"
+            },
+            "year":
+            "2008"
+            },
+            {
+            "title":
+            "Online metric learning and fast similarity search",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:9yKSN-GCB0IC",
+            "citation_id":
+            "qYhRbJoAAAAJ:9yKSN-GCB0IC",
+            "authors":
+            "P Jain, B Kulis, I Dhillon, K Grauman",
+            "publication":
+            "Advances in neural information processing systems 21, 2008",
+            "cited_by":
+            {
+            "value":
+            255,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15114196191556051325",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=15114196191556051325&engine=google_scholar&hl=en",
+            "cites_id":
+            "15114196191556051325"
+            },
+            "year":
+            "2008"
+            },
+            {
+            "title":
+            "Information-theoretic metric learning",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:u5HHmVD_uO8C",
+            "citation_id":
+            "qYhRbJoAAAAJ:u5HHmVD_uO8C",
+            "authors":
+            "JV Davis, B Kulis, P Jain, S Sra, IS Dhillon",
+            "publication":
+            "Proceedings of the 24th international conference on Machine learning, 209-216, 2007",
+            "cited_by":
+            {
+            "value":
+            2648,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7118228464924655523",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=7118228464924655523&engine=google_scholar&hl=en",
+            "cites_id":
+            "7118228464924655523"
+            },
+            "year":
+            "2007"
+            },
+            {
+            "title":
+            "Online linear regression using burg entropy",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Se3iqnhoufwC",
+            "citation_id":
+            "qYhRbJoAAAAJ:Se3iqnhoufwC",
+            "authors":
+            "P Jain, B Kulis, IS Dhillon",
+            "publication":
+            "Dept. Comput. Sci., Univ. Texas at Austin, Austin, TX, USA, Tech. Rep. TR-07-08, 2007",
+            "cited_by":
+            {
+            "value":
+            6,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6994590613090154428",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=6994590613090154428&engine=google_scholar&hl=en",
+            "cites_id":
+            "6994590613090154428"
+            },
+            "year":
+            "2007"
+            },
+            {
+            "title":
+            "Modeling data using directional distributions: Part II",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:hqOjcs7Dif8C",
+            "citation_id":
+            "qYhRbJoAAAAJ:hqOjcs7Dif8C",
+            "authors":
+            "S Sra, P Jain, I Dhillon",
+            "publication":
+            "University of Texas, 2007",
+            "cited_by":
+            {
+            "value":
+            5,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10997458090246676602",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=10997458090246676602&engine=google_scholar&hl=en",
+            "cites_id":
+            "10997458090246676602"
+            },
+            "year":
+            "2007"
+            },
+            {
+            "title":
+            "Multi-objective optimization for adaptive web site generation",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:qxL8FJ1GzNcC",
+            "citation_id":
+            "qYhRbJoAAAAJ:qxL8FJ1GzNcC",
+            "authors":
+            "P Jain, P Mitra",
+            "publication":
+            "Pattern Recognition and Machine Intelligence: First International Conference …, 2005",
+            "cited_by":
+            {
+            "value":
+            2,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16636856865321254110",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=16636856865321254110&engine=google_scholar&hl=en",
+            "cites_id":
+            "16636856865321254110"
+            },
+            "year":
+            "2005"
+            },
+            {
+            "title":
+            "Towards efficiently solving quantum traveling salesman problem",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:Zph67rFs4hoC",
+            "citation_id":
+            "qYhRbJoAAAAJ:Zph67rFs4hoC",
+            "authors":
+            "D Goswami, H Karnick, P Jain, HK Maji",
+            "publication":
+            "arXiv preprint quant-ph/0411013, 2004",
+            "cited_by":
+            {
+            "value":
+            8,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9513210299986790433",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=9513210299986790433&engine=google_scholar&hl=en",
+            "cites_id":
+            "9513210299986790433"
+            },
+            "year":
+            "2004"
+            },
+            {
+            "title":
+            "Multiobjective placement of electronic components using evolutionary algorithms",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:IjCSPb-OGe4C",
+            "citation_id":
+            "qYhRbJoAAAAJ:IjCSPb-OGe4C",
+            "authors":
+            "K Deb, P Jain, NK Gupta, HK Maji",
+            "publication":
+            "IEEE transactions on components and packaging technologies 27 (3), 480-492, 2004",
+            "cited_by":
+            {
+            "value":
+            74,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14462259848352924440",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=14462259848352924440&engine=google_scholar&hl=en",
+            "cites_id":
+            "14462259848352924440"
+            },
+            "year":
+            "2004"
+            },
+            {
+            "title":
+            "Anaphora resolution in multi-person dialogues",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:_FxGoFyzp5QC",
+            "citation_id":
+            "qYhRbJoAAAAJ:_FxGoFyzp5QC",
+            "authors":
+            "P Jain, MR Mital, S Kumar, A Mukerjee, AM Raina",
+            "publication":
+            "Proceedings of the 5th SIGdial Workshop on Discourse and Dialogue at HLT …, 2004",
+            "cited_by":
+            {
+            "value":
+            15,
+            "link":
+            "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2649484085856498644",
+            "serpapi_link":
+            "https://serpapi.com/search.json?cites=2649484085856498644&engine=google_scholar&hl=en",
+            "cites_id":
+            "2649484085856498644"
+            },
+            "year":
+            "2004"
+            },
+            {
+            "title":
+            "Summarization of Databases in Mobile Environment",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:3fE2CSJIrl8C",
+            "citation_id":
+            "qYhRbJoAAAAJ:3fE2CSJIrl8C",
+            "authors":
+            "P Jain, Y Sharma, RK Ghosh",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            "2003"
+            },
+            {
+            "title":
+            "MatFormer: Nested Transformer for Elastic Inference",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:W2uZP3ddy8sC",
+            "citation_id":
+            "qYhRbJoAAAAJ:W2uZP3ddy8sC",
+            "authors":
+            "T Dettmers, K Chen, I Dhillon, Y Tsvetkov, H Hajishirzi, S Kakade, ...",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "ADAPTIVE REPRESENTATIONS FOR SEMANTIC SEARCH",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:EaFouW7jFu4C",
+            "citation_id":
+            "qYhRbJoAAAAJ:EaFouW7jFu4C",
+            "authors":
+            "A Rege, A Kusupati, S Ranjit, S Kakade, P Jain, A Farhadi",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Diverse Yet Efficient Retrieval using Hash Functions",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:LGlY6t8CeOMC",
+            "citation_id":
+            "qYhRbJoAAAAJ:LGlY6t8CeOMC",
+            "authors":
+            "V Rao, P Jain, CV Jawahar",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Projection Efficient Subgradient Method and Optimal Nonsmooth Frank-Wolfe Method",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:AYInfyleIOsC",
+            "citation_id":
+            "qYhRbJoAAAAJ:AYInfyleIOsC",
+            "authors":
+            "P Netrapalli, P Jain, S Oh, K Thekumparampil",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "SMOOTH MINIMAX PROBLEM",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:SjuI4pbJlxcC",
+            "citation_id":
+            "qYhRbJoAAAAJ:SjuI4pbJlxcC",
+            "authors":
+            "K Thekumparampil, P Jain, P Netrapalli, S Oh",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Anomaly Detection using Robust GMM",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:fEOibwPWpKIC",
+            "citation_id":
+            "qYhRbJoAAAAJ:fEOibwPWpKIC",
+            "authors":
+            "P Netrapalli, DPJ Nagarajan Natarajan",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Matrix vs Tensor Denoising Methods under Block Sparse Perturbations",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:u9iWguZQMMsC",
+            "citation_id":
+            "qYhRbJoAAAAJ:u9iWguZQMMsC",
+            "authors":
+            "A Anandkumar, P Jain, Y Shi, UN Niranjan",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Learning Sparsely used Overcomplete Dictionaries",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:SP6oXDckpogC",
+            "citation_id":
+            "qYhRbJoAAAAJ:SP6oXDckpogC",
+            "authors":
+            "P Jain",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Inductive Regularized Learning of Kernel Functions: Supplementary Material",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:BqipwSGYUEgC",
+            "citation_id":
+            "qYhRbJoAAAAJ:BqipwSGYUEgC",
+            "authors":
+            "P Jain, B Kulis, I Dhillon",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Hashing Hyperplane Queries to Near Points with Applications to Large-Scale Active Learning Supplementary Material",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:NMxIlDl6LWMC",
+            "citation_id":
+            "qYhRbJoAAAAJ:NMxIlDl6LWMC",
+            "authors":
+            "P Jain, S Vijayanarasimhan, K Grauman",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "e-equivalence of Fuzzy and Stochastic Automata",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:M3ejUd6NZC8C",
+            "citation_id":
+            "qYhRbJoAAAAJ:M3ejUd6NZC8C",
+            "authors":
+            "HK Maji, P Jain",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "VDM Based Two Tier Regression Analysis",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:YOwf2qJgpHMC",
+            "citation_id":
+            "qYhRbJoAAAAJ:YOwf2qJgpHMC",
+            "authors":
+            "HK Maji, P Jain, S Kumar",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            },
+            {
+            "title":
+            "Solving Traveling Salesman Problem in Classical and Quantum Computing Paradigm B. Tech. Project Report",
+            "link":
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qYhRbJoAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qYhRbJoAAAAJ:8k81kl-MbHgC",
+            "citation_id":
+            "qYhRbJoAAAAJ:8k81kl-MbHgC",
+            "authors":
+            "HK Maji, P Jain",
+            "cited_by":
+            {
+            "value":
+            0},
+            "year":
+            ""
+            }
+            ]
