@@ -18,7 +18,7 @@ permalink: /
 <br>
 <br>
 <p>
-I am a Principal Scientist / Diretor at Google DeepMind India where I also lead the Machine Learning  and Optimization team. My research interests are in machine learning, efficient and elastic inference of large models, retrieval and indexing, rigorous non-convex optimization and reinforcement learning. 
+I am a Principal Scientist / Director at Google DeepMind India where I also lead the Machine Learning  and Optimization team. My research interests are in machine learning, efficient and elastic inference of large models, retrieval and indexing, rigorous non-convex optimization and reinforcement learning. 
 <br>
 Earlier, I was a Sr. Principal Research Scientist at Microsoft Research India. I completed my PhD at the University of Texas at Austin under Prof. Inderjit S. Dhillon. 
 
