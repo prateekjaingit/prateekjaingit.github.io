@@ -7,18 +7,18 @@ permalink: /
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/newpic.jpg" class="img-responsive" width="23%" style="float: left; padding: 15px;" />
  <br>
- Principal Scientist, Google DeepMind<br>
+ Distinguished Scientist, Google DeepMind<br>
  Adjunct Faculty, IIT Kanpur<br>
  Contact:
- Google DeepMind, No. 3<br>
- RMZ Infinity Tower E, Old Madras Road<br>
- Bangalore 560 016 India<br>
+ Google DeepMind, <br>
+ Google Ananta, Mahadevpura<br>
+ Bangalore 560 037 India<br>
  Email: prajain@google.com<br>
 
 <br>
 <br>
 <p>
-I am a Principal Scientist / Director at Google DeepMind India where I also lead the Machine Learning  and Optimization team. My research interests are in machine learning, efficient and elastic inference of large models, retrieval and indexing, rigorous non-convex optimization and reinforcement learning. 
+I am a Distinguished Scientist at Google DeepMind India where I co-lead long-term model research for Gemini as well as lead the Machine Learning  and Optimization team. My research interests are in machine learning, efficient and elastic inference of large models, retrieval and indexing, rigorous non-convex optimization and reinforcement learning. I have been fortunate to lead/contribute to exciting projects like Matformers, MRL, Tandem, Treeformer, HIRE, Provable Non-convex Optimization, Stochastic Optimization.
 <br>
 Earlier, I was a Sr. Principal Research Scientist at Microsoft Research India. I completed my PhD at the University of Texas at Austin under Prof. Inderjit S. Dhillon. 
 
